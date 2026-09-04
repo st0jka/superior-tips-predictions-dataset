@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite it as below.
+title: Superior Tips settled football predictions
+abstract: >-
+  An append-only record of football predictions published before kickoff and graded after the final
+  whistle, wins and losses both. One row per settled selection: kickoff, competition, teams, market,
+  the selection as published, the price it was published at, the model probability from the frozen
+  pre-match snapshot, the final regulation score and the grade.
+type: dataset
+authors:
+  - name: Superior Football Desk
+    website: https://superiortips.com
+    email: contact@superiortips.com
+repository-code: https://github.com/st0jka/superior-tips-predictions-dataset
+url: https://superiortips.com/proof
+license: CC-BY-4.0
+keywords:
+  - football
+  - soccer
+  - prediction
+  - forecast evaluation
+  - calibration
+  - sports analytics
