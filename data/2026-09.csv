@@ -1,0 +1,11 @@
+date_utc,league,home,away,market,pick,price_at_publish,model_probability,result,grade,snapshot_frozen_at
+2026-09-01T00:00:00Z,Copa de la División Profesional,Real Tomayapo,Independiente Petrolero,Over/Under Goals,Over 1.5,1.19,0.8316,3-0,WON,2026-08-29T00:04:34.186Z
+2026-09-01T00:00:00Z,NWSL Women,Boston Legacy W,Angel City W,Over/Under Goals,Over 1.5,1.25,0.8186,2-5,WON,2026-08-29T00:04:34.164Z
+2026-09-01T00:00:00Z,Primera B,Cobreloa,San Marcos de Arica,Over/Under Goals,Under 3.5,1.31,0.7610,2-0,WON,2026-08-29T00:04:34.240Z
+2026-09-01T00:00:00Z,Primera Nacional,Gimnasia Jujuy,Agropecuario,Over/Under Goals,Under 3.5,1.27,0.6881,1-1,WON,2026-08-29T00:04:34.211Z
+2026-09-01T00:15:00Z,Liga Profesional Argentina,Instituto Cordoba,San Lorenzo,Over/Under Goals,Under 2.5,1.5,0.8779,1-0,WON,2026-08-29T00:04:34.136Z
+2026-09-01T00:15:00Z,Liga Profesional Argentina,Tigre,Barracas Central,Over/Under Goals,Under 2.5,1.45,0.6826,0-0,WON,2026-08-29T00:04:34.098Z
+2026-09-01T01:00:00Z,Liga Panameña de Fútbol,UMECIT,Veraguas,Over/Under Goals,Under 3.5,1.25,0.7179,1-1,WON,2026-08-29T00:04:34.061Z
+2026-09-01T01:00:00Z,Liga de Ascenso,Pitbulls Santa Barbara FC,Santa Ana,Over/Under Goals,Over 1.5,1.25,0.8118,2-0,WON,2026-08-29T00:04:34.038Z
+2026-09-01T01:05:00Z,Primera A,Deportes Tolima,Cucuta,Over/Under Goals,Under 3.5,1.38,0.8593,2-1,WON,2026-08-29T00:04:34.016Z
+2026-09-01T01:06:00Z,Liga MX Femenil,Santos Laguna W,Atlante W,Over/Under Goals,Over 2.5,1.59,0.7676,1-0,LOST,2026-08-29T00:04:33.990Z
