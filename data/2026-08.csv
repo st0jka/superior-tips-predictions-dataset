@@ -1252,6 +1252,8 @@ date_utc,league,home,away,market,pick,price_at_publish,model_probability,result,
 2026-08-22T14:00:00Z,NM Cupen,Fana,Bjarg,Over/Under Goals,Under 3.5,1.95,0.4399,1-3,LOST,2026-08-21T00:06:37.811Z
 2026-08-22T14:00:00Z,NM Cupen,Lokomotiv Oslo,Grorud,Over/Under Goals,Under 3.5,2.08,0.6731,1-5,LOST,2026-08-21T00:06:38.020Z
 2026-08-22T14:00:00Z,NM Cupen,Lørenskog,Moss,Over/Under Goals,Under 3.5,1.7,0.4782,0-3,WON,2026-08-21T00:06:38.046Z
+2026-08-22T14:00:00Z,Premiership,Rangers,ST Mirren,Over/Under Goals,Under 3.5,1.61,0.7002,1-0,WON,2026-08-20T00:06:12.300Z
+2026-08-22T14:00:00Z,Premiership,ST Johnstone,Celtic,Over/Under Goals,Under 3.5,1.67,0.5294,0-1,WON,2026-08-20T00:06:10.610Z
 2026-08-22T14:00:00Z,Virsliga,Ogre United,FS Jelgava,Asian Handicap,Away -0.5,1.84,0.4246,2-3,WON,2026-08-20T00:06:11.881Z
 2026-08-22T14:30:00Z,2. liga,Humenné,Liptovský Mikuláš,Asian Handicap,Away -0.5,1.9,0.6216,1-0,LOST,2026-08-20T00:06:09.464Z
 2026-08-22T15:00:00Z,Ekstraliga Women,Rekord Bielsko-Biala W,UJ Krakow W,Asian Handicap,Away -0.5,1.78,0.6105,1-1,WON,2026-08-20T00:06:08.794Z
@@ -1646,6 +1648,7 @@ date_utc,league,home,away,market,pick,price_at_publish,model_probability,result,
 2026-08-29T12:30:00Z,Tweede Divisie,Hoek,Spakenburg,Over/Under Goals,Under 3.5,1.66,0.5773,0-2,WON,2026-08-26T00:03:50.219Z
 2026-08-29T13:00:00Z,1. Deild,Víkingur II,HB II,Over/Under Goals,Over 2.5,1.35,0.8833,2-0,LOST,2026-08-26T00:03:48.955Z
 2026-08-29T13:00:00Z,Allsvenskan,BK Hacken,Vasteras SK FK,Over/Under Goals,Under 3.5,1.75,0.8887,1-3,LOST,2026-08-26T00:03:49.341Z
+2026-08-29T13:00:00Z,Carioca U20,Vasco da Gama U20,Boavista U20,BTTS,No,1.49,0.6748,2-1,LOST,2026-08-26T00:03:49.693Z
 2026-08-29T13:00:00Z,Division Intermedia,Deportivo Santani,Atlético Tembetary,Over/Under Goals,Under 3.5,1.34,0.5812,3-4,LOST,2026-08-26T00:03:49.368Z
 2026-08-29T13:00:00Z,Division Intermedia,Fernando De La Mora,Tacuary,Over/Under Goals,Under 3.5,1.33,0.8716,1-1,WON,2026-08-26T00:03:49.103Z
 2026-08-29T13:00:00Z,Kansallinen Liiga,Ebk Women,PK-35 Vantaa W,Over/Under Goals,Over 2.5,1.35,0.8814,2-2,WON,2026-08-26T00:03:49.784Z
