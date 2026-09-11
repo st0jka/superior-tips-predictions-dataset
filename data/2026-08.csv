@@ -1113,6 +1113,7 @@ date_utc,league,home,away,market,pick,price_at_publish,model_probability,result,
 2026-08-19T23:30:00Z,Major League Soccer,Columbus Crew,CF Montreal,Over/Under Goals,Under 3.5,1.67,0.5100,1-2,WON,2026-08-16T00:04:13.239Z
 2026-08-20T00:00:00Z,Copa de la División Profesional,Nacional Potosí,Real Tomayapo,Over/Under Goals,Under 3.5,1.79,0.5267,5-1,LOST,2026-08-17T00:04:17.815Z
 2026-08-20T00:30:00Z,CONMEBOL Libertadores,Flamengo,Cruzeiro FC,Asian Handicap,Home +0.5,1.5,0.7877,2-1,WON,2026-08-17T00:04:17.579Z
+2026-08-20T00:30:00Z,Copa Colombia,Once Caldas,Alianza Petrolera,Asian Handicap,Home +0,1.74,0.7296,1-0,WON,2026-08-17T00:04:17.605Z
 2026-08-20T00:30:00Z,Major League Soccer,Minnesota United FC,Atlanta United FC,Over/Under Goals,Under 3.5,1.5,0.6915,1-2,WON,2026-08-17T00:04:17.666Z
 2026-08-20T00:30:00Z,USL League One,Corpus Christi,NY Cosmos,Over/Under Goals,Under 3.5,1.58,0.7060,0-2,WON,2026-08-17T00:04:17.693Z
 2026-08-20T02:30:00Z,Major League Soccer,Vancouver Whitecaps,Houston Dynamo,Over/Under Goals,Under 3.5,1.72,0.8956,0-1,WON,2026-08-17T00:04:17.294Z
