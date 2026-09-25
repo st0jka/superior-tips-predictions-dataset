@@ -1418,6 +1418,7 @@ date_utc,league,home,away,market,pick,price_at_publish,model_probability,result,
 2026-08-25T15:30:00Z,Cup,Uničov,Zlin,Over/Under Goals,Under 3.5,1.6,0.4416,0-2,WON,2026-08-22T00:04:16.658Z
 2026-08-25T15:30:00Z,DBU Pokalen,Avarta,Hillerød,Over/Under Goals,Under 3.5,1.57,0.5455,0-4,LOST,2026-08-22T00:04:16.636Z
 2026-08-25T15:30:00Z,DBU Pokalen,FC Helsingor,Hørsholm-Usserød,Over/Under Goals,Over 2.5,1.58,0.7968,2-5,WON,2026-08-22T00:04:16.569Z
+2026-08-25T16:00:00Z,Cup,Elva,Tallinna Kalev,Over/Under Goals,Over 1.5,1.38,0.9290,3-2,WON,2026-08-22T00:04:16.531Z
 2026-08-25T16:00:00Z,Cup,Hluboka nad Vltavou,Viktoria Žižkov,Over/Under Goals,Under 3.5,1.91,0.4717,0-2,WON,2026-08-22T00:04:16.472Z
 2026-08-25T16:00:00Z,Cup,Nõmme United,Vaprus,BTTS,Yes,1.4,0.9098,3-2,WON,2026-08-22T00:04:16.356Z
 2026-08-25T16:30:00Z,Svenska Cupen,Utsikten,BK Hacken,Over/Under Goals,Under 3.5,2.19,0.9148,1-2,WON,2026-08-22T00:04:16.239Z
