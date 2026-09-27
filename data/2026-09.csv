@@ -3256,3 +3256,524 @@ date_utc,league,home,away,market,pick,price_at_publish,model_probability,result,
 2026-09-19T02:00:00Z,Primera División,Perez Zeledon,Sporting San Jose,Over/Under Goals,Under 3.5,1.27,0.8088,1-2,WON,2026-09-16T00:03:22.071Z
 2026-09-19T03:00:00Z,Liga MX,FC Juarez,Tigres UANL,Over/Under Goals,Under 3.5,1.42,0.7215,2-0,WON,2026-09-16T00:03:22.035Z
 2026-09-19T03:00:00Z,Liga de Expansión MX,CA La Paz,Correcaminos Uat,Asian Handicap,Home +0.5,1.23,0.8698,3-1,WON,2026-09-16T00:03:22.015Z
+2026-09-19T05:00:00Z,J2 League,Consadole Sapporo,Oita Trinita,Over/Under Goals,Under 3.5,1.24,0.8032,1-1,WON,2026-09-16T00:03:21.998Z
+2026-09-19T05:30:00Z,Victoria NPL,Oakleigh Cannons,Avondale,Over/Under Goals,Over 1.5,1.21,0.7974,0-0,LOST,2026-09-16T00:03:21.951Z
+2026-09-19T07:30:00Z,K League 1,Bucheon FC 1995,Gimcheon Sangmu FC,Over/Under Goals,Under 3.5,1.31,0.7570,0-2,WON,2026-09-16T00:03:21.908Z
+2026-09-19T07:30:00Z,Western Australia NPL,Armadale,UWA Nedlands,Over/Under Goals,Under 3.5,1.6,0.5341,3-0,WON,2026-09-16T00:03:21.877Z
+2026-09-19T08:00:00Z,League Two,Shanghai Second,Hubei Chufeng Heli,Over/Under Goals,Under 3.5,1.22,0.7554,0-0,WON,2026-09-16T00:03:21.661Z
+2026-09-19T08:00:00Z,League Two,Xi'an Ronghai,Guizhou Zhucheng,Over/Under Goals,Under 2.5,1.5,0.7211,1-0,WON,2026-09-16T00:03:21.807Z
+2026-09-19T08:00:00Z,Liga II,CSA Steaua Bucureşti,Gloria Bistriţa,Over/Under Goals,Over 1.5,1.26,0.7814,2-1,WON,2026-09-16T00:03:21.694Z
+2026-09-19T08:00:00Z,Liga II,CSM Satu Mare,CS Afumati,Over/Under Goals,Under 3.5,1.35,0.7448,0-2,WON,2026-09-16T00:03:21.776Z
+2026-09-19T08:00:00Z,Liga II,Concordia,Metalul Buzău,Over/Under Goals,Over 1.5,1.23,0.7927,0-1,LOST,2026-09-16T00:03:21.747Z
+2026-09-19T08:00:00Z,Liga II,FC Bacau,Cetatea Suceava,Over/Under Goals,Over 1.5,1.23,0.7885,2-2,WON,2026-09-16T00:03:21.678Z
+2026-09-19T08:00:00Z,Liga II,Slatina,Viitorul Şelimbăr,Over/Under Goals,Under 3.5,1.44,0.6887,2-1,WON,2026-09-16T00:03:21.823Z
+2026-09-19T08:00:00Z,Liga II,Unirea Slobozia,Chindia Targoviste,Over/Under Goals,Over 1.5,1.31,0.7655,0-1,LOST,2026-09-16T00:03:21.761Z
+2026-09-19T08:00:00Z,Liga II,Ştefăneşti,Metaloglobus,Over/Under Goals,Over 1.5,1.27,0.8055,0-1,LOST,2026-09-16T00:03:21.837Z
+2026-09-19T08:30:00Z,Liga 1,PSM Makassar,Persita,Over/Under Goals,Under 3.5,1.25,0.7426,2-2,LOST,2026-09-16T00:03:21.595Z
+2026-09-19T08:30:00Z,Liga 1,Persebaya Surabaya,Garudayaksa,Over/Under Goals,Under 3.5,1.35,0.7155,1-1,WON,2026-09-16T00:03:21.634Z
+2026-09-19T08:30:00Z,Liga 2,Psgc Ciamis,Sumsel United,Over/Under Goals,Over 1.5,1.36,0.7858,2-0,WON,2026-09-16T00:03:21.646Z
+2026-09-19T09:00:00Z,J1 League,Avispa Fukuoka,Sanfrecce Hiroshima,Over/Under Goals,Under 3.5,1.4,0.6822,0-1,WON,2026-09-16T00:03:21.531Z
+2026-09-19T09:00:00Z,J1 League,Kawasaki Frontale,Kashima,Over/Under Goals,Over 1.5,1.21,0.8208,3-3,WON,2026-09-16T00:03:21.561Z
+2026-09-19T09:00:00Z,Premier League,Arambagh,Bashundhara Kings,Asian Handicap,Away -0.5,1.23,0.9590,1-1,LOST,2026-09-18T00:04:57.815Z
+2026-09-19T09:30:00Z,Calcutta Premier Division,Bhawanipore,United,Over/Under Goals,Under 3.5,1.33,0.8104,0-0,WON,2026-09-16T00:03:21.396Z
+2026-09-19T09:30:00Z,Calcutta Premier Division,Coal India,East Bengal,Over/Under Goals,Under 3.5,1.45,0.6824,0-7,LOST,2026-09-16T00:03:21.448Z
+2026-09-19T09:30:00Z,J1 League,Shimizu S-pulse,JEF United Chiba,Over/Under Goals,Under 3.5,1.35,0.7476,2-1,WON,2026-09-16T00:03:21.414Z
+2026-09-19T09:30:00Z,J1 League,Urawa,Tokyo Verdy,Over/Under Goals,Under 3.5,1.25,0.7442,3-1,LOST,2026-09-16T00:03:21.432Z
+2026-09-19T09:30:00Z,J1 League,V-varen Nagasaki,Cerezo Osaka,Over/Under Goals,Over 1.5,1.25,0.7725,1-1,WON,2026-09-16T00:03:21.362Z
+2026-09-19T09:30:00Z,J2 League,Fujieda MYFC,Omiya Ardija,Over/Under Goals,Under 3.5,1.38,0.7611,1-1,WON,2026-09-16T00:03:21.378Z
+2026-09-19T09:30:00Z,Liga II,Popești-Leordeni,FC Politehnica Timisoara,Over/Under Goals,Under 3.5,1.31,0.7425,3-4,LOST,2026-09-16T00:03:21.342Z
+2026-09-19T10:00:00Z,Campeonato Nacional Feminino,Vitoria Guimaraes W,Torreense W,Over/Under Goals,Under 3.5,1.39,0.6470,0-3,WON,2026-09-16T00:03:20.932Z
+2026-09-19T10:00:00Z,Cup,Thanh Hóa,Binh Duong,Over/Under Goals,Under 3.5,1.29,0.6367,0-2,WON,2026-09-16T00:03:21.014Z
+2026-09-19T10:00:00Z,J1 League,FC Tokyo,Nagoya Grampus,Asian Handicap,Home +0.5,1.24,0.8512,1-0,WON,2026-09-16T00:03:21.049Z
+2026-09-19T10:00:00Z,J1 League,Fagiano Okayama,Kyoto Sanga,Over/Under Goals,Over 1.5,1.3,0.7789,1-2,WON,2026-09-16T00:03:21.257Z
+2026-09-19T10:00:00Z,J2 League,Albirex Niigata,Jubilo Iwata,Over/Under Goals,Under 3.5,1.27,0.7690,2-1,WON,2026-09-16T00:03:20.917Z
+2026-09-19T10:00:00Z,J2 League,Montedio Yamagata,Kataller Toyama,Over/Under Goals,Under 3.5,1.5,0.7644,0-2,WON,2026-09-16T00:03:20.998Z
+2026-09-19T10:00:00Z,J2 League,Sagan Tosu,Iwaki,Over/Under Goals,Under 3.5,1.32,0.7549,1-3,LOST,2026-09-16T00:03:21.147Z
+2026-09-19T10:00:00Z,J2 League,Shonan Bellmare,Blaublitz Akita,Over/Under Goals,Under 3.5,1.25,0.8073,1-1,WON,2026-09-16T00:03:21.192Z
+2026-09-19T10:00:00Z,J2 League,Ventforet Kofu,Tokushima Vortis,Over/Under Goals,Under 3.5,1.2,0.8107,0-1,WON,2026-09-16T00:03:21.297Z
+2026-09-19T10:00:00Z,J2 League,Yokohama FC,Imabari,Over/Under Goals,Under 3.5,1.43,0.7174,2-1,WON,2026-09-16T00:03:21.133Z
+2026-09-19T10:00:00Z,K League 1,FC Anyang,Ulsan Hyundai FC,Over/Under Goals,Over 1.5,1.23,0.7804,2-1,WON,2026-09-16T00:03:20.877Z
+2026-09-19T10:00:00Z,K League 2,Gimpo Citizen,Busan I Park,Over/Under Goals,Under 3.5,1.33,0.8001,1-0,WON,2026-09-16T00:03:21.225Z
+2026-09-19T10:00:00Z,Liga 1 Feminin,Olimpia Cluj W,Farul Constanţa W,Over/Under Goals,Over 2.5,1.56,0.7442,1-8,WON,2026-09-16T00:03:21.271Z
+2026-09-19T10:00:00Z,Primera División Femenina,Levante Las Planas Women,Real Sociedad W,Over/Under Goals,Over 1.5,1.29,0.8358,0-0,LOST,2026-09-16T00:03:21.067Z
+2026-09-19T10:00:00Z,Vysshaya Liga Women,Chertanovo W,CSKA Moskva W,1X2 / Match Winner,Away,1.32,0.7443,0-4,WON,2026-09-16T00:03:21.085Z
+2026-09-19T10:00:00Z,Vysshaya Liga Women,Krylya Sovetov W,Lokomotiv Moskva W,Over/Under Goals,Under 3.5,1.3,0.7316,0-0,WON,2026-09-16T00:03:21.031Z
+2026-09-19T10:00:00Z,Vysshaya Liga Women,Rostov W,Zvezda Perm W,Over/Under Goals,Under 3.5,1.24,0.7865,1-1,WON,2026-09-16T00:03:20.971Z
+2026-09-19T10:00:00Z,Vysshaya Liga Women,Rubin Kazan W,Yenisey W,1X2 / Match Winner,Home,1.4,0.6746,2-0,WON,2026-09-16T00:03:21.244Z
+2026-09-19T10:30:00Z,J1 League,Yokohama F. Marinos,Mito Hollyhock,Over/Under Goals,Over 1.5,1.25,0.7965,2-0,WON,2026-09-16T00:03:20.824Z
+2026-09-19T11:00:00Z,1 Lyga,Minija,Neptūną Klaipėda,Over/Under Goals,Under 3.5,1.4,0.7651,2-1,WON,2026-09-16T00:03:20.258Z
+2026-09-19T11:00:00Z,1. Liga,Valmiera / BSS,Riga Mariners,Asian Handicap,Home +0.5,1.3,0.7836,2-4,LOST,2026-09-16T00:03:20.707Z
+2026-09-19T11:00:00Z,1. divisjon Kvinner,Viking FK W,Fyllingsdalen W,Over/Under Goals,Under 3.5,1.91,0.4971,6-0,LOST,2026-09-16T00:03:20.433Z
+2026-09-19T11:00:00Z,2. Bundesliga,1. FC Kaiserslautern,Eintracht Braunschweig,Over/Under Goals,Over 1.5,1.2,0.7991,1-0,LOST,2026-09-16T00:03:20.389Z
+2026-09-19T11:00:00Z,2. Bundesliga,Karlsruher SC,FC Nurnberg,Over/Under Goals,Under 3.5,2.0,0.5282,0-1,WON,2026-09-16T00:03:20.741Z
+2026-09-19T11:00:00Z,C-League,Boeung Ket,Visakha,Over/Under Goals,Under 3.5,1.57,0.7156,1-2,WON,2026-09-16T00:03:20.676Z
+2026-09-19T11:00:00Z,Kansallinen Liiga,KuPS W,HPS W,Asian Handicap,Home +0.5,2.83,0.8436,0-0,WON,2026-09-16T00:03:20.785Z
+2026-09-19T11:00:00Z,Kvindeliga,ASA Aarhus W,Odense Women,1X2 / Match Winner,Home,1.77,0.7581,1-1,LOST,2026-09-16T00:03:20.652Z
+2026-09-19T11:00:00Z,Kvindeliga,Brøndby W,Fortuna Hjørring W,Over/Under Goals,Under 3.5,1.45,0.7451,4-0,LOST,2026-09-16T00:03:20.276Z
+2026-09-19T11:00:00Z,Kvindeliga,Køge W,Midtjylland W,1X2 / Match Winner,Home,1.24,0.7496,4-0,WON,2026-09-16T00:03:20.290Z
+2026-09-19T11:00:00Z,League One,Shaanxi Union,Suzhou Dongwu,Over/Under Goals,Over 1.5,1.23,0.7953,2-2,WON,2026-09-16T00:03:20.559Z
+2026-09-19T11:00:00Z,League One,Shenzhen Juniors,Changchun Yatai,Over/Under Goals,Under 3.5,1.45,0.7088,1-1,WON,2026-09-16T00:03:20.606Z
+2026-09-19T11:00:00Z,Premier League 2 Division One,Crystal Palace U21,Blackburn Rovers U21,1X2 / Match Winner,Home,1.4,0.6501,0-1,LOST,2026-09-16T00:03:20.773Z
+2026-09-19T11:00:00Z,Superettan,Osters IF,IFK Norrkoping,Over/Under Goals,Under 3.5,1.63,0.7186,1-3,LOST,2026-09-16T00:03:20.477Z
+2026-09-19T11:00:00Z,Thai League 1,Rasi Salai United,Lamphun Warrior,Over/Under Goals,Under 3.5,1.4,0.7145,1-1,WON,2026-09-16T00:03:20.447Z
+2026-09-19T11:00:00Z,Toppserien,Hønefoss W,Røa W,Over/Under Goals,Under 3.5,1.4,0.7419,0-0,WON,2026-09-16T00:03:20.574Z
+2026-09-19T11:00:00Z,U19 league,Corum U19,Alanyaspor U19,Over/Under Goals,Under 3.5,1.28,0.7739,1-3,LOST,2026-09-16T00:03:20.460Z
+2026-09-19T11:00:00Z,U19 league,Kocaelispor U19,Gaziantep U19,1X2 / Match Winner,Home,1.67,0.6689,1-3,LOST,2026-09-16T00:03:20.720Z
+2026-09-19T11:00:00Z,Virsliga,FK Liepaja,BFC Daugavpils,Over/Under Goals,Under 3.5,1.6,0.7406,0-0,WON,2026-09-16T00:03:20.419Z
+2026-09-19T11:15:00Z,A Lyga,Banga,Džiugas Telšiai,Over/Under Goals,Under 3.5,1.3,0.8108,2-0,WON,2026-09-16T00:03:20.189Z
+2026-09-19T11:30:00Z,Championship,Cardiff,Charlton,Over/Under Goals,Under 3.5,1.55,0.7097,3-1,LOST,2026-09-16T00:03:20.163Z
+2026-09-19T11:30:00Z,Championship,Millwall,West Ham,Over/Under Goals,Under 3.5,1.57,0.7319,2-2,LOST,2026-09-16T00:03:19.863Z
+2026-09-19T11:30:00Z,Championship,Stoke City,Sheffield United,Over/Under Goals,Under 3.5,1.36,0.7447,2-1,WON,2026-09-16T00:03:19.976Z
+2026-09-19T11:30:00Z,FA WSL,Charlton Athletic W,London City Lionesses W,Over/Under Goals,Under 3.5,1.66,0.7434,1-4,LOST,2026-09-16T00:03:19.942Z
+2026-09-19T11:30:00Z,League One,Burton Albion,Mansfield Town,Over/Under Goals,Under 3.5,1.36,0.7571,2-2,LOST,2026-09-16T00:03:20.177Z
+2026-09-19T11:30:00Z,League One,Meizhou Kejia,Hebei Kungfu,Over/Under Goals,Under 3.5,1.34,0.7535,1-3,LOST,2026-09-16T00:03:19.835Z
+2026-09-19T11:30:00Z,League One,Nanjing City,Wuxi Wugou,Over/Under Goals,Under 3.5,1.32,0.7193,0-3,WON,2026-09-16T00:03:19.820Z
+2026-09-19T11:30:00Z,League Two,Rochdale,Oldham,Over/Under Goals,Under 3.5,1.42,0.7781,2-0,WON,2026-09-16T00:03:19.880Z
+2026-09-19T11:30:00Z,League Two,Walsall,Port Vale,Over/Under Goals,Under 3.5,1.32,0.8553,2-0,WON,2026-09-16T00:03:19.992Z
+2026-09-19T11:30:00Z,National League,Hartlepool,Worthing,Over/Under Goals,Under 3.5,1.47,0.7241,1-3,LOST,2026-09-16T00:03:19.848Z
+2026-09-19T11:30:00Z,Premier League,Balestier Khalsa,Tanjong Pagar,Asian Handicap,Home +0.5,1.21,0.9418,3-4,LOST,2026-09-16T00:03:20.102Z
+2026-09-19T11:30:00Z,Premier League,Tottenham,Aston Villa,Over/Under Goals,Under 3.5,1.42,0.8048,2-3,LOST,2026-09-16T00:03:19.923Z
+2026-09-19T11:30:00Z,Premier League,Young Lions,Geylang International,Over/Under Goals,Under 3.5,1.75,0.5992,1-5,LOST,2026-09-16T00:03:20.119Z
+2026-09-19T11:30:00Z,Super League Women,Standard Liege W,OH Leuven W,Over/Under Goals,Under 3.5,1.48,0.7089,0-5,LOST,2026-09-16T00:03:19.957Z
+2026-09-19T11:30:00Z,Thai League 1,Pattani,Prachuap,Over/Under Goals,Under 3.5,1.31,0.8200,0-3,WON,2026-09-16T00:03:20.134Z
+2026-09-19T12:00:00Z,1. Division,AB Copenhagen,Esbjerg,Over/Under Goals,Under 3.5,1.6,0.7238,3-0,WON,2026-09-16T00:03:19.420Z
+2026-09-19T12:00:00Z,1. Division,Aarhus Fremad,Hvidovre,Over/Under Goals,Under 3.5,1.41,0.7970,1-3,LOST,2026-09-16T00:03:19.166Z
+2026-09-19T12:00:00Z,2nd Division - Group 1,Middelfart,VSK Århus,Over/Under Goals,Under 3.5,1.47,0.7668,1-1,WON,2026-09-16T00:03:19.219Z
+2026-09-19T12:00:00Z,3. Liga,Alemannia Aachen,Fortuna Düsseldorf,Over/Under Goals,Under 3.5,1.57,0.6824,1-0,WON,2026-09-16T00:03:19.288Z
+2026-09-19T12:00:00Z,3. Liga,Havelse,Fortuna Köln,Over/Under Goals,Under 3.5,1.46,0.6152,1-3,LOST,2026-09-16T00:03:19.349Z
+2026-09-19T12:00:00Z,Eredivisie Women,PSV/Eindhoven W,Twente W,Over/Under Goals,Over 1.5,1.2,0.8103,0-4,WON,2026-09-16T00:03:19.677Z
+2026-09-19T12:00:00Z,La Liga,Osasuna,Rayo Vallecano,Over/Under Goals,Under 3.5,1.32,0.7575,1-1,WON,2026-09-16T00:03:19.747Z
+2026-09-19T12:00:00Z,Liga 1,Persija,Malut United,1X2 / Match Winner,Home,1.5,0.6816,1-0,WON,2026-09-16T00:03:19.112Z
+2026-09-19T12:00:00Z,Liga 2,Persiba Balikpapan,Persela Lamongan,Over/Under Goals,Under 3.5,1.22,0.8156,0-1,WON,2026-09-16T00:03:19.614Z
+2026-09-19T12:00:00Z,Ligue 2,Boulogne,Nantes,Over/Under Goals,Under 3.5,1.3,0.8328,1-2,WON,2026-09-16T00:03:19.335Z
+2026-09-19T12:00:00Z,Ligue 2,Guingamp,RED Star FC 93,Over/Under Goals,Under 3.5,1.45,0.7455,1-3,LOST,2026-09-16T00:03:19.447Z
+2026-09-19T12:00:00Z,Pershaya Liga,Orsha,FC Slutsk,Over/Under Goals,Under 3.5,1.89,0.7001,0-3,WON,2026-09-16T00:03:19.405Z
+2026-09-19T12:00:00Z,Premier League 2 Division One,Tottenham Hotspur U21,Manchester City U21,Over/Under Goals,Under 3.5,2.0,0.5350,4-2,LOST,2026-09-16T00:03:19.237Z
+2026-09-19T12:00:00Z,Premier League,Alashkert,Pyunik Yerevan,Over/Under Goals,Under 3.5,1.24,0.8431,3-3,LOST,2026-09-16T00:03:19.462Z
+2026-09-19T12:00:00Z,Segunda Division,Real Sociedad II,Mallorca,Over/Under Goals,Under 3.5,1.36,0.8088,0-1,WON,2026-09-16T00:03:19.319Z
+2026-09-19T12:00:00Z,Thai League 1,Chiangrai United,Sisaket United,Over/Under Goals,Under 3.5,1.26,0.7916,0-1,WON,2026-09-16T00:03:19.202Z
+2026-09-19T12:00:00Z,Veikkausliiga,Turku PS,Ilves,Over/Under Goals,Under 3.5,1.5,0.6710,0-3,WON,2026-09-16T00:03:19.477Z
+2026-09-19T12:30:00Z,2. Lig,Adana 1954 FK,Yeni Orduspor,Over/Under Goals,Under 3.5,1.6,0.5854,3-2,LOST,2026-09-16T00:03:18.998Z
+2026-09-19T12:30:00Z,I Liga - Women,Tatran Prešov W,Petržalka W,1X2 / Match Winner,Home,1.2,0.7055,7-0,WON,2026-09-16T00:03:18.986Z
+2026-09-19T12:30:00Z,Premier League,Zorya Luhansk,Dynamo Kyiv,Over/Under Goals,Under 3.5,1.43,0.7357,0-2,WON,2026-09-16T00:03:19.063Z
+2026-09-19T12:30:00Z,Super League,Blue Eagles,Be Forward Wanderers,Over/Under Goals,Under 3.5,1.22,0.8408,2-1,WON,2026-09-16T00:03:18.928Z
+2026-09-19T12:30:00Z,Tweede Divisie,Koninklijke HFC,AFC Amsterdam,Over/Under Goals,Under 3.5,1.56,0.7117,1-3,LOST,2026-09-16T00:03:18.960Z
+2026-09-19T12:45:00Z,Ekstraklasa,Korona Kielce,Raków Częstochowa,Over/Under Goals,Under 3.5,1.38,0.8065,3-2,LOST,2026-09-16T00:03:18.894Z
+2026-09-19T12:45:00Z,First NL,Orijent 1919,Opatija,Over/Under Goals,Under 3.5,1.27,0.8064,1-0,WON,2026-09-16T00:03:18.910Z
+2026-09-19T13:00:00Z,1. Liga Women,Slovan Liberec W,Viktoria Plzeň W,1X2 / Match Winner,Home,1.41,0.7842,5-1,WON,2026-09-16T00:03:18.508Z
+2026-09-19T13:00:00Z,1st Division,Hope Fc,Orbit College,Over/Under Goals,Under 2.5,1.46,0.7187,1-0,WON,2026-09-16T00:03:17.984Z
+2026-09-19T13:00:00Z,2. Lig,Arnavutköy Belediyespor,Çorluspor 1947,Over/Under Goals,Under 3.5,1.4,0.7496,0-2,WON,2026-09-16T00:03:18.177Z
+2026-09-19T13:00:00Z,2. SNL,Beltinci,Tabor Sežana,Over/Under Goals,Under 2.5,1.57,0.5386,5-1,LOST,2026-09-16T00:03:18.222Z
+2026-09-19T13:00:00Z,Allsvenskan,IF Brommapojkarna,IFK Goteborg,Over/Under Goals,Over 1.5,1.23,0.7870,0-1,LOST,2026-09-16T00:03:18.237Z
+2026-09-19T13:00:00Z,Allsvenskan,Vasteras SK FK,Malmo FF,Over/Under Goals,Under 3.5,1.45,0.7199,2-0,WON,2026-09-16T00:03:18.097Z
+2026-09-19T13:00:00Z,Campionato,Domagnano,La Fiorita,Over/Under Goals,Under 3.5,1.35,0.7273,1-2,WON,2026-09-16T00:03:18.195Z
+2026-09-19T13:00:00Z,Campionato,Folgore,San Marino Academy,1X2 / Match Winner,Home,1.26,0.8061,2-0,WON,2026-09-16T00:03:18.142Z
+2026-09-19T13:00:00Z,Campionato,Pennarossa,Fiorentino,Over/Under Goals,Under 3.5,1.37,0.7142,3-1,LOST,2026-09-16T00:03:17.966Z
+2026-09-19T13:00:00Z,Carioca U20,Botafogo U20,Flamengo U20,Over/Under Goals,Under 3.5,1.29,0.7111,0-1,WON,2026-09-16T00:03:18.826Z
+2026-09-19T13:00:00Z,Carioca U20,Madureira U20,Portuguesa RJ U20,Over/Under Goals,Under 3.5,1.36,0.7939,0-0,WON,2026-09-16T00:03:18.852Z
+2026-09-19T13:00:00Z,Czech Liga,Mlada Boleslav,Zbrojovka Brno,Over/Under Goals,Over 1.5,1.25,0.7498,2-0,WON,2026-09-16T00:03:18.301Z
+2026-09-19T13:00:00Z,Czech Liga,Pardubice,Bohemians 1905,Over/Under Goals,Under 3.5,1.42,0.7854,2-1,WON,2026-09-16T00:03:18.443Z
+2026-09-19T13:00:00Z,Damallsvenskan,Eskilstuna United W,Häcken W,Asian Handicap,Away -0.5,1.22,0.7917,0-3,WON,2026-09-16T00:03:18.664Z
+2026-09-19T13:00:00Z,Damallsvenskan,Uppsala W,Brommapojkarna W,Asian Handicap,Away -0.5,1.2,0.6927,0-1,WON,2026-09-16T00:03:18.839Z
+2026-09-19T13:00:00Z,Elitettan,Elfsborg W,Sandviken W,1X2 / Match Winner,Home,1.22,0.8053,1-0,WON,2026-09-16T00:03:17.948Z
+2026-09-19T13:00:00Z,Esiliiga A,Elva,FC Tallinn,1X2 / Match Winner,Home,1.59,0.6637,1-1,LOST,2026-09-16T00:03:18.042Z
+2026-09-19T13:00:00Z,FIFA Intercontinental Cup,Mamelodi Sundowns,Al-Ahli Saudi,1X2 / Match Winner,Home,3.3,0.5934,2-1,WON,2026-09-16T00:03:18.063Z
+2026-09-19T13:00:00Z,Paulista - U20,Sertãozinho U20,Santo André U20,Over/Under Goals,Under 3.5,1.26,0.8286,1-1,WON,2026-09-18T00:04:57.756Z
+2026-09-19T13:00:00Z,Pernambucano - U20,Jaguar U20,America PE U20,Over/Under Goals,Under 3.5,1.5,0.7645,0-4,LOST,2026-09-16T00:03:18.709Z
+2026-09-19T13:00:00Z,Pernambucano - U20,Petrolina U20,Academica Vitoria U20,Over/Under Goals,Under 3.5,1.4,0.8150,0-2,WON,2026-09-16T00:03:18.720Z
+2026-09-19T13:00:00Z,Pernambucano - U20,Serrano PE U20,Nautico U20,Over/Under Goals,Under 3.5,1.5,0.7819,1-2,WON,2026-09-16T00:03:18.490Z
+2026-09-19T13:00:00Z,Premier Soccer League,Golden Arrows,Kaizer Chiefs,Over/Under Goals,Under 3.5,1.19,0.8898,0-0,WON,2026-09-16T00:03:18.125Z
+2026-09-19T13:00:00Z,Premier Soccer League,Milford FC,Durban City,Over/Under Goals,Under 2.5,1.48,0.7525,1-1,WON,2026-09-16T00:03:18.526Z
+2026-09-19T13:00:00Z,Serie A,Bologna,Torino,Over/Under Goals,Under 3.5,1.32,0.7632,1-1,WON,2026-09-16T00:03:17.898Z
+2026-09-19T13:00:00Z,Serie A,Udinese,Cagliari,Over/Under Goals,Under 3.5,1.27,0.7943,0-1,WON,2026-09-16T00:03:17.809Z
+2026-09-19T13:00:00Z,Serie B,Carrarese,Benevento,Over/Under Goals,Under 3.5,1.35,0.7370,0-1,WON,2026-09-16T00:03:18.318Z
+2026-09-19T13:00:00Z,Serie B,Cremonese,Virtus Entella,Over/Under Goals,Under 3.5,1.33,0.7733,0-0,WON,2026-09-16T00:03:17.913Z
+2026-09-19T13:00:00Z,Serie B,Palermo,Padova,Over/Under Goals,Under 3.5,1.47,0.7144,2-1,WON,2026-09-16T00:03:17.794Z
+2026-09-19T13:00:00Z,Super League 2,Anagennisi Karditsas,Panionios,Over/Under Goals,Under 2.5,1.42,0.6898,0-0,WON,2026-09-17T00:02:24.703Z
+2026-09-19T13:00:00Z,Super Liga,Politehnica UTM,Petrocub,Over/Under Goals,Under 3.5,1.49,0.6685,0-1,WON,2026-09-16T00:03:17.928Z
+2026-09-19T13:00:00Z,Superettan,Oddevold,IFK Varnamo,Over/Under Goals,Over 1.5,1.23,0.7832,1-2,WON,2026-09-16T00:03:18.254Z
+2026-09-19T13:00:00Z,Superettan,Varbergs BoIS FC,IK brage,Over/Under Goals,Under 3.5,1.47,0.6801,3-2,LOST,2026-09-16T00:03:18.599Z
+2026-09-19T13:00:00Z,Taça de Portugal,Castro Daire,Portimonense,Over/Under Goals,Over 1.5,1.22,0.7979,0-1,LOST,2026-09-16T00:03:17.881Z
+2026-09-19T13:00:00Z,Taça de Portugal,Naval 1893,Felgueiras 1932,Over/Under Goals,Under 3.5,1.3,0.7564,0-2,WON,2026-09-16T00:03:17.843Z
+2026-09-19T13:00:00Z,Virsliga,FS Jelgava,Riga,Asian Handicap,Away -0.5,1.36,0.7189,0-1,WON,2026-09-16T00:03:18.684Z
+2026-09-19T13:30:00Z,1. Liga Promotion,FC Schaffhausen,Lugano II,1X2 / Match Winner,Home,1.4,0.5873,2-1,WON,2026-09-16T00:03:17.563Z
+2026-09-19T13:30:00Z,1st League - FBiH,Bratstvo Gračanica,Tomislav,Over/Under Goals,Under 3.5,1.25,0.8032,2-2,LOST,2026-09-16T00:03:17.433Z
+2026-09-19T13:30:00Z,1st League - FBiH,Sloboda Tuzla,Radnik Hadžići,Over/Under Goals,Under 3.5,1.28,0.7500,3-0,WON,2026-09-16T00:03:17.638Z
+2026-09-19T13:30:00Z,1st League - FBiH,Travnik,Zvijezda Gradačac,Over/Under Goals,Under 3.5,1.26,0.7624,1-0,WON,2026-09-16T00:03:17.590Z
+2026-09-19T13:30:00Z,1st League - FBiH,Čapljina,Rudar Kakanj,Over/Under Goals,Under 3.5,1.24,0.7282,1-2,WON,2026-09-16T00:03:17.499Z
+2026-09-19T13:30:00Z,2. Liga,Sturm Graz II,Wacker Innsbruck,Over/Under Goals,Over 1.5,1.19,0.8281,2-2,WON,2026-09-16T00:03:17.652Z
+2026-09-19T13:30:00Z,2. Liga,Voitsberg,Austria Salzburg,Over/Under Goals,Over 1.5,1.21,0.8154,2-1,WON,2026-09-16T00:03:17.678Z
+2026-09-19T13:30:00Z,2. liga,Humenné,Inter Bratislava,Over/Under Goals,Under 3.5,1.35,0.7150,1-1,WON,2026-09-16T00:03:17.624Z
+2026-09-19T13:30:00Z,2. liga,MFK Bytča,Baník Lehota p.Vtáčnikom,Over/Under Goals,Over 1.5,1.19,0.7661,2-1,WON,2026-09-16T00:03:17.713Z
+2026-09-19T13:30:00Z,Bundesliga,Hamburger SV,1. FC Köln,Over/Under Goals,Over 1.5,1.2,0.8708,2-1,WON,2026-09-16T00:03:17.699Z
+2026-09-19T13:30:00Z,I Liga,Nieciecza,Odra Opole,Over/Under Goals,Under 3.5,1.35,0.7359,1-0,WON,2026-09-16T00:03:17.485Z
+2026-09-19T13:30:00Z,I Liga,Pogoń Grod. Mazowiecki,ŁKS Łódź,Over/Under Goals,Under 3.5,1.41,0.7497,2-0,WON,2026-09-16T00:03:17.451Z
+2026-09-19T13:30:00Z,I Liga,Polonia Warszawa,Chrobry Głogów,Over/Under Goals,Under 3.5,1.4,0.7513,2-0,WON,2026-09-16T00:03:17.468Z
+2026-09-19T13:30:00Z,League Cup,Al-Ittihad Kalba,Al Khaleej,Over/Under Goals,Over 1.5,1.2,0.7747,2-1,WON,2026-09-16T00:03:17.761Z
+2026-09-19T13:30:00Z,League Cup,Hatta SC,Shabab Al Ahli Dubai,Asian Handicap,Away -0.5,1.22,0.5754,2-2,LOST,2026-09-16T00:03:17.746Z
+2026-09-19T13:45:00Z,Second League,Makedonija GP,FK Rabotnicki,Over/Under Goals,Under 3.5,1.24,0.7704,0-1,WON,2026-09-16T00:03:17.381Z
+2026-09-19T13:45:00Z,Second League,Pelister,Ohrid,Over/Under Goals,Under 3.5,1.24,0.7860,1-0,WON,2026-09-16T00:03:17.354Z
+2026-09-19T13:45:00Z,Second League,Teteks,Osogovo,Over/Under Goals,Over 1.5,1.28,0.7818,0-0,LOST,2026-09-16T00:03:17.326Z
+2026-09-19T14:00:00Z,1. Division,Asane,Bryne,Over/Under Goals,Under 3.5,1.54,0.7317,0-4,LOST,2026-09-16T00:03:16.080Z
+2026-09-19T14:00:00Z,1. Lig,Keçiörengücü,Sivasspor,Over/Under Goals,Under 3.5,1.43,0.7255,1-1,WON,2026-09-17T00:02:24.522Z
+2026-09-19T14:00:00Z,1. Lig,Sarıyer,Boluspor,1X2 / Match Winner,Home,1.26,0.6912,2-1,WON,2026-09-17T00:02:24.558Z
+2026-09-19T14:00:00Z,1st League - RS,Famos Vojkovići,FK Romanija Pale,Asian Handicap,Home +0.5,1.23,0.8292,3-1,WON,2026-09-16T00:03:14.234Z
+2026-09-19T14:00:00Z,1st League - RS,Laktaši,Drina Zvornik,Over/Under Goals,Under 3.5,1.41,0.7613,2-1,WON,2026-09-16T00:03:16.942Z
+2026-09-19T14:00:00Z,1st League - RS,Zvijezda 09,Leotar,Over/Under Goals,Under 3.5,1.35,0.8007,1-4,LOST,2026-09-16T00:03:17.259Z
+2026-09-19T14:00:00Z,3. SNL - East,Šmartno,Podvinci,Over/Under Goals,Under 3.5,1.55,0.7016,8-1,LOST,2026-09-16T00:03:16.769Z
+2026-09-19T14:00:00Z,Campeonato Nacional Feminino,Racing Power W,Valadares Gaia W,Over/Under Goals,Under 3.5,1.22,0.7851,1-0,WON,2026-09-16T00:03:14.318Z
+2026-09-19T14:00:00Z,Challenger Pro League,KRC Genk II,Seraing United,Over/Under Goals,Under 3.5,1.63,0.6684,2-2,LOST,2026-09-16T00:03:16.925Z
+2026-09-19T14:00:00Z,Championship,Birmingham,Middlesbrough,Over/Under Goals,Under 3.5,1.5,0.7655,2-2,LOST,2026-09-16T00:03:17.021Z
+2026-09-19T14:00:00Z,Championship,Burnley,Derby,Over/Under Goals,Under 3.5,1.67,0.7347,1-1,WON,2026-09-16T00:03:17.138Z
+2026-09-19T14:00:00Z,Championship,Lincoln,Swansea,Over/Under Goals,Under 3.5,1.36,0.7582,1-2,WON,2026-09-16T00:03:16.027Z
+2026-09-19T14:00:00Z,Championship,Livingston,Inverness CT,Over/Under Goals,Under 3.5,1.34,0.8398,2-2,LOST,2026-09-16T00:03:17.108Z
+2026-09-19T14:00:00Z,Championship,Loughgall,Armagh City,1X2 / Match Winner,Home,1.25,0.6756,0-0,LOST,2026-09-16T00:03:14.299Z
+2026-09-19T14:00:00Z,Championship,Partick,Raith Rovers,Over/Under Goals,Under 3.5,1.32,0.8606,0-0,WON,2026-09-16T00:03:14.519Z
+2026-09-19T14:00:00Z,Championship,Portsmouth,Blackburn,Over/Under Goals,Under 3.5,1.3,0.8037,2-2,LOST,2026-09-16T00:03:16.240Z
+2026-09-19T14:00:00Z,Championship,Stenhousemuir,Arbroath,Asian Handicap,Home +0.5,1.41,0.8410,1-0,WON,2026-09-16T00:03:16.799Z
+2026-09-19T14:00:00Z,Championship,Wrexham,Southampton,Over/Under Goals,Over 1.5,1.26,0.7608,2-1,WON,2026-09-16T00:03:14.426Z
+2026-09-19T14:00:00Z,Eliteserien,Kristiansund BK,Rosenborg,Over/Under Goals,Under 3.5,1.69,0.6691,1-3,LOST,2026-09-16T00:03:15.921Z
+2026-09-19T14:00:00Z,Erovnuli Liga,Gagra,Meshakhte,Over/Under Goals,Under 3.5,1.28,0.7640,1-1,WON,2026-09-16T00:03:16.873Z
+2026-09-19T14:00:00Z,FA Cup,AFC Emley,Spennymoor Town,Over/Under Goals,Under 3.5,1.4,0.7115,0-4,LOST,2026-09-16T00:03:15.674Z
+2026-09-19T14:00:00Z,FA Cup,Barton Town Old Boys,Boldmere St. Michaels,Asian Handicap,Home +0.5,1.54,0.9151,3-1,WON,2026-09-16T00:03:15.111Z
+2026-09-19T14:00:00Z,FA Cup,Bedford Town,King's Lynn Town,Over/Under Goals,Under 3.5,1.4,0.7755,2-1,WON,2026-09-16T00:03:16.454Z
+2026-09-19T14:00:00Z,FA Cup,Bury AFC,Workington,Asian Handicap,Home +0.5,1.2,0.9582,5-1,WON,2026-09-16T00:03:15.191Z
+2026-09-19T14:00:00Z,FA Cup,Buxton,Ashton United,1X2 / Match Winner,Home,1.43,0.5870,1-0,WON,2026-09-16T00:03:15.253Z
+2026-09-19T14:00:00Z,FA Cup,Cray Wanderers,Maidstone Utd,Over/Under Goals,Under 3.5,1.53,0.5686,1-1,WON,2026-09-16T00:03:14.944Z
+2026-09-19T14:00:00Z,FA Cup,Hemel Hempstead Town,Wingate & Finchley,Over/Under Goals,Under 3.5,1.53,0.7606,1-1,WON,2026-09-16T00:03:16.334Z
+2026-09-19T14:00:00Z,FA Cup,Leamington,Gainsborough Trinity,Over/Under Goals,Over 1.5,1.19,0.7528,1-1,WON,2026-09-16T00:03:14.716Z
+2026-09-19T14:00:00Z,FA Cup,Merthyr Town,Truro City,Over/Under Goals,Over 1.5,1.27,0.7964,1-1,WON,2026-09-16T00:03:16.695Z
+2026-09-19T14:00:00Z,FA Cup,Needham Market,Braintree,Over/Under Goals,Over 1.5,1.23,0.7726,3-3,WON,2026-09-16T00:03:14.992Z
+2026-09-19T14:00:00Z,FA Cup,Redditch United,Evesham United,Over/Under Goals,Over 1.5,1.23,0.7847,3-0,WON,2026-09-16T00:03:14.752Z
+2026-09-19T14:00:00Z,FA Cup,Rylands,Chorley,Over/Under Goals,Over 1.5,1.23,0.7844,0-1,LOST,2026-09-16T00:03:15.615Z
+2026-09-19T14:00:00Z,FA Cup,South Shields,Witton Albion,1X2 / Match Winner,Home,1.24,0.6176,7-0,WON,2026-09-16T00:03:15.499Z
+2026-09-19T14:00:00Z,FA Cup,Thame United,Exmouth,1X2 / Match Winner,Home,1.8,0.6440,3-3,LOST,2026-09-16T00:03:15.787Z
+2026-09-19T14:00:00Z,FA Cup,Torquay,AFC Stoneham,Over/Under Goals,Under 3.5,2.05,0.6608,6-1,LOST,2026-09-16T00:03:15.078Z
+2026-09-19T14:00:00Z,FA Cup,United of Manchester,Ossett United,1X2 / Match Winner,Home,1.35,0.6418,4-1,WON,2026-09-16T00:03:15.238Z
+2026-09-19T14:00:00Z,FA Cup,Weston-super-Mare,Wimborne Town,Over/Under Goals,Under 3.5,1.49,0.7722,1-1,WON,2026-09-16T00:03:15.035Z
+2026-09-19T14:00:00Z,FA Cup,Worcester City,Stratford Town,Over/Under Goals,Under 3.5,1.27,0.7189,2-1,WON,2026-09-16T00:03:15.096Z
+2026-09-19T14:00:00Z,FA Cup,Yate Town,Chippenham Town,Over/Under Goals,Over 1.5,1.19,0.7676,0-0,LOST,2026-09-16T00:03:14.805Z
+2026-09-19T14:00:00Z,Jupiler Pro League,OH Leuven,RAAL La Louvière,Over/Under Goals,Under 3.5,1.33,0.7378,2-0,WON,2026-09-16T00:03:16.553Z
+2026-09-19T14:00:00Z,League One,Alloa Athletic,East Kilbride,Over/Under Goals,Over 1.5,1.23,0.7687,1-2,WON,2026-09-16T00:03:17.122Z
+2026-09-19T14:00:00Z,League One,Blackpool,Plymouth,Over/Under Goals,Over 1.5,1.21,0.7741,2-4,WON,2026-09-16T00:03:15.878Z
+2026-09-19T14:00:00Z,League One,Bromley,Huddersfield,Over/Under Goals,Under 3.5,1.45,0.6051,2-1,WON,2026-09-16T00:03:15.141Z
+2026-09-19T14:00:00Z,League One,Cove Rangers,Ross County,Over/Under Goals,Under 3.5,1.55,0.7467,0-2,WON,2026-09-16T00:03:16.170Z
+2026-09-19T14:00:00Z,League One,East Fife,Montrose,Over/Under Goals,Under 3.5,1.33,0.7477,1-2,WON,2026-09-16T00:03:15.700Z
+2026-09-19T14:00:00Z,League One,Hamilton Academical,Queen of the South,Over/Under Goals,Under 3.5,1.53,0.6896,4-1,LOST,2026-09-16T00:03:16.892Z
+2026-09-19T14:00:00Z,League One,Leyton Orient,Stevenage,Over/Under Goals,Under 3.5,1.26,0.7726,1-0,WON,2026-09-16T00:03:16.256Z
+2026-09-19T14:00:00Z,League One,Luton,Bradford,Over/Under Goals,Under 3.5,1.38,0.7677,0-1,WON,2026-09-16T00:03:16.784Z
+2026-09-19T14:00:00Z,League One,Oxford United,Cambridge United,Over/Under Goals,Under 3.5,1.35,0.7711,1-1,WON,2026-09-16T00:03:14.258Z
+2026-09-19T14:00:00Z,League One,Peterborough,Doncaster,Over/Under Goals,Under 3.5,1.55,0.7707,0-2,WON,2026-09-16T00:03:15.897Z
+2026-09-19T14:00:00Z,League One,Peterhead,Airdrie United,Over/Under Goals,Under 3.5,1.32,0.7630,1-2,WON,2026-09-16T00:03:14.541Z
+2026-09-19T14:00:00Z,League One,Reading,Notts County,Over/Under Goals,Under 3.5,1.39,0.7292,2-0,WON,2026-09-16T00:03:16.142Z
+2026-09-19T14:00:00Z,League One,Sheffield Wednesday,Stockport County,Over/Under Goals,Under 3.5,1.5,0.6811,0-0,WON,2026-09-16T00:03:16.420Z
+2026-09-19T14:00:00Z,League One,Wigan,Wycombe,Over/Under Goals,Under 3.5,1.44,0.7806,0-1,WON,2026-09-16T00:03:16.619Z
+2026-09-19T14:00:00Z,League Two,Accrington ST,Newport County,Over/Under Goals,Under 3.5,1.37,0.7664,0-0,WON,2026-09-16T00:03:16.523Z
+2026-09-19T14:00:00Z,League Two,Barnet,Fleetwood Town,Over/Under Goals,Under 3.5,1.48,0.7478,3-1,LOST,2026-09-16T00:03:16.538Z
+2026-09-19T14:00:00Z,League Two,Chesterfield,York,Over/Under Goals,Under 3.5,1.48,0.7424,2-0,WON,2026-09-16T00:03:14.447Z
+2026-09-19T14:00:00Z,League Two,Colchester,Cheltenham,Over/Under Goals,Under 3.5,1.44,0.7050,1-1,WON,2026-09-16T00:03:15.801Z
+2026-09-19T14:00:00Z,League Two,Crewe,Shrewsbury,Asian Handicap,Home +0.5,1.28,0.8600,1-1,WON,2026-09-16T00:03:15.818Z
+2026-09-19T14:00:00Z,League Two,Dumbarton,Spartans,Over/Under Goals,Under 3.5,1.61,0.6273,3-0,WON,2026-09-16T00:03:16.601Z
+2026-09-19T14:00:00Z,League Two,Elgin City,Stranraer,Over/Under Goals,Over 1.5,1.24,0.7923,1-5,WON,2026-09-16T00:03:16.829Z
+2026-09-19T14:00:00Z,League Two,Exeter City,Tranmere Rovers,Over/Under Goals,Under 3.5,1.32,0.7694,0-0,WON,2026-09-16T00:03:16.112Z
+2026-09-19T14:00:00Z,League Two,Forfar Athletic,Annan Athletic,Over/Under Goals,Under 3.5,1.36,0.7250,1-0,WON,2026-09-16T00:03:15.301Z
+2026-09-19T14:00:00Z,League Two,Gillingham,Bristol Rovers,Over/Under Goals,Under 3.5,1.37,0.8111,3-0,WON,2026-09-16T00:03:16.128Z
+2026-09-19T14:00:00Z,League Two,Grimsby,Crawley Town,Over/Under Goals,Under 3.5,1.63,0.6858,2-0,WON,2026-09-16T00:03:16.726Z
+2026-09-19T14:00:00Z,League Two,Kelty Hearts,Edinburgh City,Over/Under Goals,Over 1.5,1.23,0.8328,1-3,WON,2026-09-16T00:03:15.315Z
+2026-09-19T14:00:00Z,League Two,Northampton,Rotherham,Over/Under Goals,Under 3.5,1.29,0.7922,0-1,WON,2026-09-16T00:03:14.202Z
+2026-09-19T14:00:00Z,League Two,Salford City,Swindon Town,Over/Under Goals,Under 3.5,1.57,0.7215,1-0,WON,2026-09-16T00:03:15.175Z
+2026-09-19T14:00:00Z,National League,AFC Fylde,Altrincham,Over/Under Goals,Over 1.5,1.19,0.8263,1-2,WON,2026-09-16T00:03:14.573Z
+2026-09-19T14:00:00Z,National League,Barrow,Aldershot Town,Over/Under Goals,Under 3.5,1.5,0.7596,1-0,WON,2026-09-16T00:03:17.039Z
+2026-09-19T14:00:00Z,National League,Boreham Wood,Harrogate Town,Over/Under Goals,Under 3.5,1.68,0.6197,4-1,LOST,2026-09-16T00:03:16.973Z
+2026-09-19T14:00:00Z,National League,Eastleigh,Carlisle,Over/Under Goals,Over 1.5,1.2,0.7724,1-0,LOST,2026-09-16T00:03:17.055Z
+2026-09-19T14:00:00Z,National League,FC Halifax Town,Sutton United,Asian Handicap,Home +0.5,1.41,0.8647,1-1,WON,2026-09-16T00:03:14.590Z
+2026-09-19T14:00:00Z,National League,Forest Green,Boston United,Over/Under Goals,Over 1.5,1.19,0.7569,1-3,WON,2026-09-16T00:03:16.843Z
+2026-09-19T14:00:00Z,National League,Gateshead,Southend,Over/Under Goals,Over 1.5,1.24,0.7843,1-6,WON,2026-09-16T00:03:16.756Z
+2026-09-19T14:00:00Z,National League,Woking,Kidderminster Harriers,Over/Under Goals,Under 3.5,1.34,0.7218,0-0,WON,2026-09-16T00:03:16.155Z
+2026-09-19T14:00:00Z,Premier League,Brighton,Arsenal,Over/Under Goals,Under 3.5,1.46,0.8175,3-0,WON,2026-09-16T00:03:16.909Z
+2026-09-19T14:00:00Z,Premier League,Everton,Ipswich,Over/Under Goals,Under 3.5,1.48,0.6940,1-0,WON,2026-09-16T00:03:14.558Z
+2026-09-19T14:00:00Z,Premier League,Newcastle United,Hull City,Over/Under Goals,Under 3.5,1.55,0.7372,2-1,WON,2026-09-16T00:03:16.814Z
+2026-09-19T14:00:00Z,Premier League,Slavia Mozyr,Naftan,Over/Under Goals,Over 1.5,1.22,0.8393,0-1,LOST,2026-09-16T00:03:14.218Z
+2026-09-19T14:00:00Z,Premier League,Sua Flamingoes,Enesia,Over/Under Goals,Under 2.5,1.48,0.7458,1-1,WON,2026-09-16T00:03:17.175Z
+2026-09-19T14:00:00Z,Premiership,Bangor,Portadown,Over/Under Goals,Under 3.5,1.33,0.7267,3-1,LOST,2026-09-16T00:03:16.096Z
+2026-09-19T14:00:00Z,Premiership,Carrick Rangers,Larne,Over/Under Goals,Under 3.5,1.33,0.7541,2-5,LOST,2026-09-16T00:03:16.569Z
+2026-09-19T14:00:00Z,Premiership,Cliftonville FC,Glentoran,Over/Under Goals,Under 3.5,1.37,0.7445,1-2,WON,2026-09-16T00:03:16.585Z
+2026-09-19T14:00:00Z,Premiership,Dundee,Motherwell,Over/Under Goals,Under 3.5,1.47,0.7669,2-1,WON,2026-09-16T00:03:17.073Z
+2026-09-19T14:00:00Z,Premiership,Dungannon Swifts,Ballymena United,Over/Under Goals,Under 3.5,1.38,0.7397,1-1,WON,2026-09-16T00:03:16.222Z
+2026-09-19T14:00:00Z,Premiership,Hibernian,Aberdeen,Over/Under Goals,Under 3.5,1.48,0.7917,1-1,WON,2026-09-16T00:03:16.389Z
+2026-09-19T14:00:00Z,Premiership,Linfield,Crusaders FC,Over/Under Goals,Under 3.5,1.57,0.6979,1-0,WON,2026-09-16T00:03:15.687Z
+2026-09-19T14:00:00Z,Premiership,ST Johnstone,Falkirk,Over/Under Goals,Under 3.5,1.38,0.7029,1-1,WON,2026-09-16T00:03:17.091Z
+2026-09-19T14:00:00Z,Premiership,ST Mirren,Dundee Utd,Over/Under Goals,Under 3.5,1.52,0.7654,0-3,WON,2026-09-16T00:03:14.473Z
+2026-09-19T14:00:00Z,Premijer Liga,BSK Banja Luka,Radnik Bijeljina,Over/Under Goals,Under 3.5,1.22,0.7800,4-4,LOST,2026-09-16T00:03:15.348Z
+2026-09-19T14:00:00Z,Primera División Femenina,Espanyol W,Madrid CFF W,Over/Under Goals,Under 3.5,1.25,0.7223,5-1,LOST,2026-09-16T00:03:17.276Z
+2026-09-19T14:00:00Z,Second NL,Križevci,Jarun,Over/Under Goals,Under 3.5,1.4,0.7340,2-2,LOST,2026-09-16T00:03:15.943Z
+2026-09-19T14:00:00Z,Second NL,Slavonija Požega,Solin,Over/Under Goals,Under 3.5,1.4,0.7399,3-2,LOST,2026-09-16T00:03:16.041Z
+2026-09-19T14:00:00Z,Second NL,Trnje,Hrvatski Dragovoljac,Over/Under Goals,Under 3.5,1.4,0.7346,0-1,WON,2026-09-16T00:03:16.056Z
+2026-09-19T14:00:00Z,Second NL,Uskok Klis,Bjelovar,Over/Under Goals,Under 3.5,1.41,0.6873,2-3,LOST,2026-09-16T00:03:17.203Z
+2026-09-19T14:00:00Z,Second NL,Varteks Varaždin,Inter Zapresic,1X2 / Match Winner,Home,2.42,0.6640,0-2,LOST,2026-09-16T00:03:17.216Z
+2026-09-19T14:00:00Z,Super League 2,Zakynthos,Ellas Syros,Over/Under Goals,Under 3.5,1.19,0.7982,1-4,LOST,2026-09-17T00:02:24.483Z
+2026-09-19T14:00:00Z,Super Lig,Kocaelispor,Gazişehir Gaziantep,Over/Under Goals,Under 3.5,1.23,0.7751,2-0,WON,2026-09-16T00:03:15.839Z
+2026-09-19T14:00:00Z,Super Lig,Yeni Çorumspor,Alanyaspor,Over/Under Goals,Over 1.5,1.35,0.7371,1-2,WON,2026-09-16T00:03:15.993Z
+2026-09-19T14:00:00Z,Superliga,Feronikeli,Vushtrria,Over/Under Goals,Under 3.5,1.28,0.7978,3-1,LOST,2026-09-17T00:02:24.574Z
+2026-09-19T14:00:00Z,Superliga,Malisheva,Ballkani,Over/Under Goals,Over 1.5,1.25,0.7817,2-1,WON,2026-09-17T00:02:24.501Z
+2026-09-19T14:00:00Z,Superliga,Vora,Skenderbeu Korce,Over/Under Goals,Under 3.5,1.26,0.7561,1-1,WON,2026-09-16T00:03:17.152Z
+2026-09-19T14:00:00Z,Taça de Portugal,Vitória de Sernache,Varzim,Over/Under Goals,Over 1.5,1.35,0.7742,2-1,WON,2026-09-16T00:03:15.333Z
+2026-09-19T14:15:00Z,La Liga,Athletic Club,Alaves,Over/Under Goals,Under 3.5,1.36,0.7992,0-0,WON,2026-09-16T00:03:14.161Z
+2026-09-19T14:15:00Z,Segunda Division,Andorra,Sporting Gijon,Over/Under Goals,Under 3.5,1.33,0.7589,1-3,LOST,2026-09-16T00:03:14.142Z
+2026-09-19T14:30:00Z,2. SNL,Dren Vrhnika,Primorje,Asian Handicap,Home +0.5,1.39,0.8547,2-1,WON,2026-09-16T00:03:14.052Z
+2026-09-19T14:30:00Z,2. SNL,Ilirija,Krško,1X2 / Match Winner,Home,1.51,0.6920,2-0,WON,2026-09-16T00:03:13.730Z
+2026-09-19T14:30:00Z,Eredivisie,ADO Den Haag,Cambuur,Over/Under Goals,Under 3.5,1.67,0.5989,1-1,WON,2026-09-16T00:03:13.557Z
+2026-09-19T14:30:00Z,First NL,Bsk Bijelo Brdo,Hrvace,Over/Under Goals,Under 3.5,1.25,0.7804,1-2,WON,2026-09-16T00:03:13.765Z
+2026-09-19T14:30:00Z,First NL,Dugopolje,Dinamo Zagreb U21,Over/Under Goals,Under 3.5,1.3,0.7595,3-2,LOST,2026-09-16T00:03:14.035Z
+2026-09-19T14:30:00Z,First NL,Vukovar,Jadran LP,Over/Under Goals,Under 3.5,1.27,0.7490,2-3,LOST,2026-09-16T00:03:14.019Z
+2026-09-19T14:30:00Z,Girabola,1º de Agosto,Fc Luanda,1X2 / Match Winner,Home,1.44,0.7590,3-2,WON,2026-09-16T00:03:13.956Z
+2026-09-19T14:30:00Z,Liga E Pare,Vëllaznimi,Ferizaj,Over/Under Goals,Under 3.5,1.29,0.8211,1-5,LOST,2026-09-16T00:03:13.794Z
+2026-09-19T14:30:00Z,Meistaradeildin,Vikingur Gota,07 Vestur,Over/Under Goals,Under 3.5,1.5,0.7328,3-3,LOST,2026-09-16T00:03:13.715Z
+2026-09-19T14:30:00Z,Primeira Liga,GIL Vicente,Maritimo,Over/Under Goals,Under 3.5,1.23,0.7802,1-1,WON,2026-09-16T00:03:13.673Z
+2026-09-19T14:30:00Z,Primeira Liga,Nacional,Famalicao,Over/Under Goals,Under 3.5,1.29,0.8100,0-4,LOST,2026-09-16T00:03:13.747Z
+2026-09-19T14:30:00Z,Regionalliga - South,Hartberg (Am),Tillmitsch,Over/Under Goals,Under 3.5,1.68,0.6034,2-2,LOST,2026-09-16T00:03:13.813Z
+2026-09-19T14:30:00Z,Taça de Portugal,Atlético CP,Lagoa,Over/Under Goals,Under 3.5,1.3,0.6448,4-1,LOST,2026-09-16T00:03:13.886Z
+2026-09-19T15:00:00Z,1. Liga,Super Nova 2,Smiltene,Over/Under Goals,Under 3.5,1.65,0.4984,0-2,WON,2026-09-16T00:03:13.152Z
+2026-09-19T15:00:00Z,Bundesliga,Austria Lustenau,SCR Altach,Over/Under Goals,Under 3.5,1.43,0.7345,2-0,WON,2026-09-16T00:03:12.867Z
+2026-09-19T15:00:00Z,First League,Arda Kardzhali,Cherno More Varna,Asian Handicap,Home +0.5,1.19,0.8374,1-1,WON,2026-09-16T00:03:13.242Z
+2026-09-19T15:00:00Z,First League,Bregalnica Štip,Skopje,Over/Under Goals,Under 3.5,1.35,0.7226,1-0,WON,2026-09-16T00:03:13.166Z
+2026-09-19T15:00:00Z,First League,Dunav Ruse,Botev Vratsa,Over/Under Goals,Under 3.5,1.23,0.8264,2-2,LOST,2026-09-16T00:03:13.266Z
+2026-09-19T15:00:00Z,First League,Lokomotiv Plovdiv,CSKA Sofia,Over/Under Goals,Under 3.5,1.29,0.8698,1-1,WON,2026-09-16T00:03:12.900Z
+2026-09-19T15:00:00Z,First League,Septemvri Sofia,Botev Plovdiv,Over/Under Goals,Under 3.5,1.34,0.7599,0-3,WON,2026-09-16T00:03:13.284Z
+2026-09-19T15:00:00Z,First League,Slavia Sofia,CSKA 1948,Over/Under Goals,Under 3.5,1.28,0.7932,1-2,WON,2026-09-16T00:03:12.594Z
+2026-09-19T15:00:00Z,First League,Spartak Varna,Lokomotiv Sofia,Over/Under Goals,Under 3.5,1.38,0.7670,0-1,WON,2026-09-16T00:03:12.628Z
+2026-09-19T15:00:00Z,HNL,Dinamo Zagreb,NK Lokomotiva Zagreb,1X2 / Match Winner,Home,1.22,0.6245,3-2,WON,2026-09-16T00:03:13.105Z
+2026-09-19T15:00:00Z,HNL,HNK Rijeka,HNK Hajduk Split,Over/Under Goals,Under 3.5,1.34,0.7641,3-0,WON,2026-09-16T00:03:12.976Z
+2026-09-19T15:00:00Z,HNL,Istra 1961,HNK Gorica,Asian Handicap,Home +0.5,1.26,0.8222,0-1,LOST,2026-09-16T00:03:12.450Z
+2026-09-19T15:00:00Z,HNL,NK Varazdin,NK Osijek,Asian Handicap,Home +0.5,1.3,0.8194,0-0,WON,2026-09-16T00:03:12.812Z
+2026-09-19T15:00:00Z,HNL,Rudes,NK Slaven Belupo,Over/Under Goals,Over 1.5,1.27,0.8329,2-2,WON,2026-09-16T00:03:12.883Z
+2026-09-19T15:00:00Z,Liga MX U21,Atl. San Luis U21,Necaxa U21,Over/Under Goals,Under 3.5,1.41,0.7443,3-2,LOST,2026-09-16T00:03:13.209Z
+2026-09-19T15:00:00Z,Liga MX U21,Atlas U21,UNAM Pumas U21,Over/Under Goals,Under 3.5,1.32,0.7526,1-2,WON,2026-09-16T00:03:12.829Z
+2026-09-19T15:00:00Z,Liga MX U21,Club America U21,Guadalajara Chivas U21,Over/Under Goals,Under 3.5,1.21,0.7991,1-2,WON,2026-09-16T00:03:13.223Z
+2026-09-19T15:00:00Z,NB II,Ajka,Csakvar,Over/Under Goals,Under 3.5,1.3,0.7927,1-0,WON,2026-09-16T00:03:13.361Z
+2026-09-19T15:00:00Z,NB II,Diosgyori VTK,Gyirmot SE,Over/Under Goals,Over 1.5,1.23,0.7837,2-0,WON,2026-09-16T00:03:13.376Z
+2026-09-19T15:00:00Z,NB II,Mezokovesd-zsory,Kazincbarcikai,Over/Under Goals,Under 3.5,1.3,0.7834,4-1,LOST,2026-09-16T00:03:13.031Z
+2026-09-19T15:00:00Z,NPFL,Ikorodu City,Barau FC,1X2 / Match Winner,Home,1.55,0.6214,0-0,LOST,2026-09-16T00:03:13.323Z
+2026-09-19T15:00:00Z,Premier League,BKMA,Sardarapat,Over/Under Goals,Under 3.5,1.36,0.7531,1-1,WON,2026-09-16T00:03:12.848Z
+2026-09-19T15:00:00Z,Premier League,Epitsentr Dunayivtsi,Livyi Bereh,Over/Under Goals,Under 3.5,1.22,0.8671,0-2,WON,2026-09-16T00:03:13.345Z
+2026-09-19T15:00:00Z,Premijer Liga,FK Sarajevo,Sloga Doboj,Over/Under Goals,Under 3.5,1.2,0.8312,2-0,WON,2026-09-16T00:03:12.662Z
+2026-09-19T15:00:00Z,Premijer Liga,Siroki Brijeg,Borac Banja Luka,Over/Under Goals,Under 3.5,1.26,0.8215,2-3,LOST,2026-09-16T00:03:13.301Z
+2026-09-19T15:00:00Z,Premijer Liga,Zeljeznicar Sarajevo,Čelik,Over/Under Goals,Under 3.5,1.3,0.8410,1-1,WON,2026-09-16T00:03:12.933Z
+2026-09-19T15:00:00Z,Primera División - Apertura,Boston River,Progreso,Over/Under Goals,Under 3.5,1.27,0.8211,1-2,WON,2026-09-17T00:02:24.433Z
+2026-09-19T15:00:00Z,Superettan,Sandviken,Orebro SK,Over/Under Goals,Under 3.5,1.5,0.7456,4-2,LOST,2026-09-16T00:03:13.126Z
+2026-09-19T15:15:00Z,Ligue 1,Paris FC,Strasbourg,Over/Under Goals,Over 1.5,1.22,0.7720,2-1,WON,2026-09-16T00:03:12.271Z
+2026-09-19T15:15:00Z,Serie B,Sampdoria,Catanzaro,Over/Under Goals,Under 3.5,1.35,0.7807,2-1,WON,2026-09-16T00:03:12.289Z
+2026-09-19T15:15:00Z,Super League,Bunyodkor,Buxoro,Over/Under Goals,Under 3.5,1.31,0.7920,2-1,WON,2026-09-16T00:03:12.312Z
+2026-09-19T15:30:00Z,1. SNL,Koper,Nafta,Over/Under Goals,Over 1.5,1.25,0.7630,2-0,WON,2026-09-16T00:03:12.254Z
+2026-09-19T15:30:00Z,Ekstraklasa,GKS Katowice,Cracovia Krakow,Asian Handicap,Home +0.5,1.55,0.8125,3-2,WON,2026-09-16T00:03:12.180Z
+2026-09-19T15:30:00Z,Premier Soccer League,Polokwane City,Amazulu,Over/Under Goals,Under 2.5,1.46,0.6606,0-1,WON,2026-09-16T00:03:12.239Z
+2026-09-19T15:35:00Z,First Division League (FDL),Al Anwar,Al Najma,Over/Under Goals,Under 3.5,1.25,0.8447,2-1,WON,2026-09-16T00:03:12.148Z
+2026-09-19T15:45:00Z,Iraqi League,Ghaz Al Shamal,Newroz,Over/Under Goals,Under 2.5,1.54,0.6913,0-0,WON,2026-09-16T00:03:12.119Z
+2026-09-19T16:00:00Z,1 Lyga,Kauno Žalgiris II,Garliava,Over/Under Goals,Under 3.5,1.39,0.7069,3-2,LOST,2026-09-16T00:03:11.795Z
+2026-09-19T16:00:00Z,1. Deild,Throttur Reykjavik,Fylkir,Over/Under Goals,Under 3.5,1.56,0.5668,1-0,WON,2026-09-16T00:03:11.223Z
+2026-09-19T16:00:00Z,1. Division,Nea Salamis,Anorthosis,Over/Under Goals,Over 1.5,1.35,0.7886,3-0,WON,2026-09-16T00:03:11.317Z
+2026-09-19T16:00:00Z,2. Division,Digenis Morphou,APEA,Over/Under Goals,Under 3.5,1.28,0.7297,0-1,WON,2026-09-16T00:03:11.104Z
+2026-09-19T16:00:00Z,2. Division,Doxa,Anagennisi Deryneia,Over/Under Goals,Under 3.5,1.45,0.7212,2-1,WON,2026-09-16T00:03:11.887Z
+2026-09-19T16:00:00Z,2. Division,Ethnikos Achna,Polemidion,Over/Under Goals,Under 3.5,1.4,0.8519,3-0,WON,2026-09-16T00:03:11.777Z
+2026-09-19T16:00:00Z,2. Lig,Ankaragücü,Serik Belediyespor,Over/Under Goals,Under 3.5,1.26,0.7736,1-1,WON,2026-09-16T00:03:11.855Z
+2026-09-19T16:00:00Z,2. Lig,Elazığspor,Aliağa FAŞ,Over/Under Goals,Over 1.5,1.23,0.7820,5-0,WON,2026-09-16T00:03:11.870Z
+2026-09-19T16:00:00Z,2. Lig,Şanlıurfaspor,Adana Demirspor,1X2 / Match Winner,Home,1.67,0.8947,1-1,LOST,2026-09-16T00:03:11.841Z
+2026-09-19T16:00:00Z,Czech Liga,Slovácko,Baník Ostrava,Over/Under Goals,Under 3.5,1.36,0.7859,2-2,LOST,2026-09-16T00:03:11.955Z
+2026-09-19T16:00:00Z,Erovnuli Liga,Samgurali,Dinamo Tbilisi,Over/Under Goals,Under 3.5,1.39,0.5573,2-3,LOST,2026-09-16T00:03:11.184Z
+2026-09-19T16:00:00Z,Esiliiga B,Tallinna Kalev II,Narva U21,1X2 / Match Winner,Away,1.43,0.6264,1-2,WON,2026-09-16T00:03:12.049Z
+2026-09-19T16:00:00Z,Feminine Division 1,Saint-Malo W,FC Fleury 91 W,Over/Under Goals,Under 3.5,1.35,0.7246,0-2,WON,2026-09-16T00:03:11.129Z
+2026-09-19T16:00:00Z,I Liga - Women,Spartak Myjava W,Komárno W,1X2 / Match Winner,Home,1.64,0.9780,8-0,WON,2026-09-16T00:03:11.990Z
+2026-09-19T16:00:00Z,League,Shabab Al Ordon,Al Hussein,Over/Under Goals,Under 3.5,1.36,0.7725,3-3,LOST,2026-09-16T00:03:11.582Z
+2026-09-19T16:00:00Z,Liga Premier Serie A,Correcaminos UAT II,Acatlan,Over/Under Goals,Under 3.5,1.46,0.7124,1-1,WON,2026-09-16T00:03:11.676Z
+2026-09-19T16:00:00Z,Premier League,Birzebbuga,Valletta FC,Over/Under Goals,Under 3.5,1.37,0.7940,0-3,WON,2026-09-16T00:03:12.004Z
+2026-09-19T16:00:00Z,Primera División Femenina,Atletico Madrid W,Edf Logrono W,1X2 / Match Winner,Home,1.8,0.6507,1-0,WON,2026-09-16T00:03:11.907Z
+2026-09-19T16:00:00Z,Segunda División,Miramar,Uruguay Montevideo,Over/Under Goals,Under 3.5,1.23,0.8197,1-0,WON,2026-09-16T00:03:11.595Z
+2026-09-19T16:00:00Z,Serie A Cup Women,Roma W,Juventus W,Over/Under Goals,Under 3.5,1.3,0.8112,2-2,LOST,2026-09-16T00:03:11.203Z
+2026-09-19T16:00:00Z,Serie A,AS Roma,Inter,Over/Under Goals,Under 3.5,1.56,0.7104,2-2,LOST,2026-09-16T00:03:11.164Z
+2026-09-19T16:00:00Z,Super League 1,Atromitos,Kifisia,Over/Under Goals,Under 3.5,1.27,0.8260,1-2,WON,2026-09-16T00:03:11.733Z
+2026-09-19T16:00:00Z,Super League Women,RAAL La Louviere W,Gent W,Asian Handicap,Home +0.5,1.19,0.8633,3-2,WON,2026-09-16T00:03:11.511Z
+2026-09-19T16:00:00Z,Super League,BSC Young Boys,Servette FC,Over/Under Goals,Under 3.5,1.91,0.5587,3-2,LOST,2026-09-16T00:03:11.972Z
+2026-09-19T16:00:00Z,Super League,FC Luzern,Grasshoppers,Over/Under Goals,Under 3.5,1.83,0.5737,5-1,LOST,2026-09-16T00:03:11.441Z
+2026-09-19T16:00:00Z,Super Liga,FK Košice,Ružomberok,1X2 / Match Winner,Home,1.5,0.6817,2-0,WON,2026-09-16T00:03:11.243Z
+2026-09-19T16:00:00Z,Super Liga,Macva,Mladost Lucani,Over/Under Goals,Under 3.5,1.21,0.8470,1-2,WON,2026-09-16T00:03:11.663Z
+2026-09-19T16:00:00Z,Super Liga,Novi Pazar,Zemun,Over/Under Goals,Under 3.5,1.45,0.7299,2-2,LOST,2026-09-16T00:03:11.610Z
+2026-09-19T16:00:00Z,Super Liga,OFK Beograd,Radnicki 1923,Over/Under Goals,Under 3.5,1.37,0.7700,3-5,LOST,2026-09-16T00:03:11.269Z
+2026-09-19T16:00:00Z,Super Liga,Radnik Surdulica,FK Partizan,Over/Under Goals,Under 3.5,1.44,0.7364,4-4,LOST,2026-09-16T00:03:11.694Z
+2026-09-19T16:00:00Z,Super Liga,Vojvodina,IMT Novi Beograd,Over/Under Goals,Under 3.5,1.43,0.7363,1-1,WON,2026-09-16T00:03:12.065Z
+2026-09-19T16:00:00Z,Super Liga,Zemplín Michalovce,Dukla Banská Bystrica,Over/Under Goals,Under 3.5,1.61,0.7087,1-0,WON,2026-09-16T00:03:11.931Z
+2026-09-19T16:00:00Z,Super Liga,Zimbru,Dacia-Buiucani,1X2 / Match Winner,Home,1.26,0.7795,0-1,LOST,2026-09-16T00:03:11.293Z
+2026-09-19T16:00:00Z,Super Liga,Železničar Pančevo,Cukaricki,Over/Under Goals,Under 3.5,1.5,0.7884,2-1,WON,2026-09-16T00:03:11.420Z
+2026-09-19T16:00:00Z,Super Liga,Žilina,AS Trencin,1X2 / Match Winner,Home,1.37,0.6892,2-1,WON,2026-09-16T00:03:11.482Z
+2026-09-19T16:00:00Z,Superliga,Odense,FC Midtjylland,Over/Under Goals,Over 1.5,1.2,0.8357,1-1,WON,2026-09-16T00:03:11.648Z
+2026-09-19T16:00:00Z,Taça de Portugal,Oliveirense,Penafiel,Over/Under Goals,Over 1.5,1.3,0.7790,1-2,WON,2026-09-16T00:03:11.713Z
+2026-09-19T16:00:00Z,U19 league,Vojvodina U19,Tsc U19,Over/Under Goals,Under 3.5,1.58,0.4983,3-4,LOST,2026-09-16T00:03:12.034Z
+2026-09-19T16:15:00Z,Jupiler Pro League,Charleroi,Cercle Brugge,Asian Handicap,Home +0.5,1.95,0.8417,3-2,WON,2026-09-16T00:03:11.067Z
+2026-09-19T16:15:00Z,League Cup,Ajman,Sharjah FC,Over/Under Goals,Under 3.5,1.5,0.6182,3-2,LOST,2026-09-16T00:03:11.086Z
+2026-09-19T16:15:00Z,League Cup,Al-Wasl FC,Al Ain,Over/Under Goals,Under 3.5,1.55,0.6246,3-2,LOST,2026-09-16T00:03:11.049Z
+2026-09-19T16:30:00Z,Bundesliga,VfB Stuttgart,Borussia Dortmund,Asian Handicap,Home +0.5,1.57,0.8596,0-1,LOST,2026-09-16T00:03:10.806Z
+2026-09-19T16:30:00Z,FA WSL,Arsenal W,Manchester United W,Over/Under Goals,Under 3.5,1.5,0.7394,1-1,WON,2026-09-16T00:03:10.768Z
+2026-09-19T16:30:00Z,La Liga,Celta Vigo,Racing Santander,Over/Under Goals,Over 1.5,1.22,0.7376,5-0,WON,2026-09-16T00:03:10.982Z
+2026-09-19T16:30:00Z,National League,AFC Hornchurch,Scunthorpe,Over/Under Goals,Under 3.5,1.45,0.7359,1-0,WON,2026-09-16T00:03:10.963Z
+2026-09-19T16:30:00Z,Premier League,Nottingham Forest,Coventry,Over/Under Goals,Under 3.5,1.45,0.7514,0-1,WON,2026-09-16T00:03:10.906Z
+2026-09-19T16:30:00Z,Premier League,The New Saints,Llandudno,Over/Under Goals,Under 3.5,1.95,0.7338,2-1,WON,2026-09-16T00:03:10.828Z
+2026-09-19T16:30:00Z,Segunda Division,Castellón,Tenerife,Over/Under Goals,Under 3.5,1.44,0.7761,5-0,LOST,2026-09-16T00:03:10.941Z
+2026-09-19T16:30:00Z,Segunda Division,Eldense,Eibar,Over/Under Goals,Under 3.5,1.28,0.8079,1-2,WON,2026-09-16T00:03:11.002Z
+2026-09-19T16:30:00Z,Super League 1,Aris Thessaloniki,Iraklis 1908,Over/Under Goals,Under 3.5,1.29,0.7445,0-0,WON,2026-09-16T00:03:10.865Z
+2026-09-19T16:30:00Z,Superliga,Dinamo Tirana,Laci,Over/Under Goals,Under 3.5,1.21,0.8027,3-1,LOST,2026-09-16T00:03:11.025Z
+2026-09-19T16:30:00Z,World Cup - U20 - Women,Brazil U20 W,Spain U20 W,Over/Under Goals,Over 1.5,1.27,0.8212,0-1,LOST,2026-09-18T00:04:57.659Z
+2026-09-19T16:45:00Z,Premiership,Kilmarnock,Heart Of Midlothian,Over/Under Goals,Under 3.5,1.58,0.7058,1-1,WON,2026-09-16T00:03:10.727Z
+2026-09-19T17:00:00Z,1. Lig,Batman Petrolspor,Bursaspor,Over/Under Goals,Under 3.5,1.4,0.7315,1-2,WON,2026-09-17T00:02:24.391Z
+2026-09-19T17:00:00Z,1. Lig,Erokspor,Fatih Karagümrük,Over/Under Goals,Under 3.5,1.4,0.7830,0-2,WON,2026-09-17T00:02:24.370Z
+2026-09-19T17:00:00Z,First Division League (FDL),Al Zulfi,Al-Raed,Over/Under Goals,Under 3.5,1.27,0.8683,4-0,LOST,2026-09-16T00:03:10.701Z
+2026-09-19T17:00:00Z,First League,Arsenal Tivat,Sutjeska,Over/Under Goals,Under 3.5,1.2,0.8467,0-2,WON,2026-09-16T00:03:10.427Z
+2026-09-19T17:00:00Z,I Liga,Miedz Legnica,Stal Rzeszów,Over/Under Goals,Under 3.5,1.73,0.7398,2-3,LOST,2026-09-16T00:03:10.631Z
+2026-09-19T17:00:00Z,Liga I,CFR 1907 Cluj,FC Botosani,Over/Under Goals,Under 3.5,1.38,0.7720,3-1,LOST,2026-09-16T00:03:10.646Z
+2026-09-19T17:00:00Z,Liga I,Dinamo Bucuresti,Farul Constanta,Over/Under Goals,Under 3.5,1.38,0.7077,4-0,LOST,2026-09-16T00:03:10.407Z
+2026-09-19T17:00:00Z,Liga I,FC Voluntari,Universitatea Cluj,Over/Under Goals,Under 3.5,1.44,0.7755,0-2,WON,2026-09-16T00:03:10.547Z
+2026-09-19T17:00:00Z,Liga I,Petrolul Ploiesti,Csikszereda,Over/Under Goals,Under 3.5,1.31,0.7392,2-0,WON,2026-09-16T00:03:10.461Z
+2026-09-19T17:00:00Z,Liga I,Universitatea Craiova,FCSB,Asian Handicap,Home +0.5,1.33,0.8623,5-0,WON,2026-09-16T00:03:10.681Z
+2026-09-19T17:00:00Z,Liga I,Uta Arad,Sepsi OSK Sfantu Gheorghe,Over/Under Goals,Under 3.5,1.32,0.7838,1-0,WON,2026-09-16T00:03:10.274Z
+2026-09-19T17:00:00Z,Ligat Ha'al,Bnei Sakhnin,Hapoel Ramat Gan,Over/Under Goals,Under 3.5,1.3,0.7409,1-0,WON,2026-09-16T00:03:10.235Z
+2026-09-19T17:00:00Z,Ligat Ha'al,Hapoel Beer Sheva,Ironi Kiryat Shmona,1X2 / Match Winner,Home,1.5,0.6325,1-0,WON,2026-09-16T00:03:10.565Z
+2026-09-19T17:00:00Z,Ligat Ha'al,Hapoel Tel Aviv,Hapoel Petah Tikva,Over/Under Goals,Under 3.5,1.44,0.7517,3-0,WON,2026-09-16T00:03:10.502Z
+2026-09-19T17:00:00Z,Ligat Ha'al,Maccabi Haifa,Ironi Tiberias,Over/Under Goals,Under 3.5,1.61,0.5832,3-2,LOST,2026-09-16T00:03:10.584Z
+2026-09-19T17:00:00Z,Ligat Ha'al,Maccabi Netanya,Maccabi Tel Aviv,Over/Under Goals,Under 3.5,1.75,0.6159,1-2,WON,2026-09-16T00:03:10.328Z
+2026-09-19T17:00:00Z,Ligat Ha'al,Maccabi Petah Tikva,Hapoel Katamon,Over/Under Goals,Under 3.5,1.22,0.7673,2-4,LOST,2026-09-16T00:03:10.312Z
+2026-09-19T17:00:00Z,NB II,Kecskeméti TE,Szeged 2011,Over/Under Goals,Under 3.5,1.3,0.7268,1-0,WON,2026-09-16T00:03:10.212Z
+2026-09-19T17:00:00Z,Premier League,Dinamo Minsk,Bate Borisov,Over/Under Goals,Under 3.5,1.3,0.7632,2-0,WON,2026-09-16T00:03:10.607Z
+2026-09-19T17:00:00Z,Premiership,Coleraine FC,Limavady United,Over/Under Goals,Under 3.5,1.7,0.7461,1-0,WON,2026-09-16T00:03:10.192Z
+2026-09-19T17:00:00Z,Primeira Liga,Alverca,Rio Ave,Over/Under Goals,Under 3.5,1.3,0.7251,1-0,WON,2026-09-16T00:03:10.360Z
+2026-09-19T17:00:00Z,Super Lig,İstanbul Başakşehir,Genclerbirligi,Over/Under Goals,Over 1.5,1.22,0.7624,4-0,WON,2026-09-16T00:03:10.473Z
+2026-09-19T17:00:00Z,Taça de Portugal,Mafra,Tirsense,Over/Under Goals,Over 1.5,1.27,0.8248,1-1,WON,2026-09-16T00:03:10.344Z
+2026-09-19T17:00:00Z,Taça de Portugal,O Elvas,União de Leiria,Over/Under Goals,Over 1.5,1.32,0.8452,0-2,WON,2026-09-16T00:03:10.251Z
+2026-09-19T17:30:00Z,Bundesliga,Grazer AK,Austria Vienna,Over/Under Goals,Over 1.5,1.33,0.7541,2-2,WON,2026-09-16T00:03:10.160Z
+2026-09-19T17:30:00Z,Liga Profesional Argentina,Gimnasia La Plata,Banfield,Over/Under Goals,Under 3.5,1.27,0.7591,2-2,LOST,2026-09-16T00:03:10.124Z
+2026-09-19T17:30:00Z,Liga Profesional Argentina,Gimnasia M.,Deportivo Riestra,Asian Handicap,Home +0.5,1.3,0.8903,0-0,WON,2026-09-16T00:03:10.047Z
+2026-09-19T17:30:00Z,Serie B,Ascoli,Avellino,Over/Under Goals,Under 3.5,1.36,0.7883,3-1,LOST,2026-09-16T00:03:10.110Z
+2026-09-19T18:00:00Z,Carioca U20,Boavista U20,Nova Iguaçu U20,Over/Under Goals,Under 3.5,1.45,0.7581,3-2,LOST,2026-09-16T00:03:09.822Z
+2026-09-19T18:00:00Z,Carioca U20,Fluminense U20,Sampaio Correa FE U20,Over/Under Goals,Under 3.5,1.3,0.7363,5-1,LOST,2026-09-16T00:03:09.754Z
+2026-09-19T18:00:00Z,Carioca U20,Volta Redonda U20,Vasco da Gama U20,Over/Under Goals,Over 1.5,1.2,0.8369,1-2,WON,2026-09-16T00:03:09.576Z
+2026-09-19T18:00:00Z,Challenger Pro League,FC Eupen,Liège,Over/Under Goals,Under 3.5,1.45,0.7284,3-1,LOST,2026-09-16T00:03:09.469Z
+2026-09-19T18:00:00Z,Copa Rio,Boavista SC,Nova Iguaçu,Over/Under Goals,Under 3.5,1.22,0.9297,1-1,WON,2026-09-16T00:03:09.863Z
+2026-09-19T18:00:00Z,Eredivisie,Ajax,Excelsior,Over/Under Goals,Under 3.5,2.21,0.5674,2-2,LOST,2026-09-16T00:03:09.681Z
+2026-09-19T18:00:00Z,First League,Vardar Skopje,Shkëndija Haraçinë,Over/Under Goals,Under 3.5,1.47,0.7518,2-0,WON,2026-09-16T00:03:09.448Z
+2026-09-19T18:00:00Z,Ligue 2,Metz,Saint Etienne,Over/Under Goals,Over 1.5,1.26,0.8009,2-2,WON,2026-09-16T00:03:09.793Z
+2026-09-19T18:00:00Z,Paulista - U20,Capivariano U20,Água Santa U20,Over/Under Goals,Under 3.5,1.37,0.6811,0-1,WON,2026-09-18T00:04:57.639Z
+2026-09-19T18:00:00Z,Paulista - U20,Oeste U20,Desportivo Brasil U20,Over/Under Goals,Under 3.5,1.3,0.7687,2-4,LOST,2026-09-18T00:04:57.608Z
+2026-09-19T18:00:00Z,Paulista - U20,Portuguesa Santista U20,Novorizontino U20,Over/Under Goals,Under 3.5,1.43,0.7900,2-1,WON,2026-09-18T00:04:57.624Z
+2026-09-19T18:00:00Z,Primera C,Central Ballester,Central Cordoba,Over/Under Goals,Under 2.5,1.42,0.7154,0-0,WON,2026-09-16T00:03:09.947Z
+2026-09-19T18:00:00Z,Primera C,General Lamadrid,Leones de Rosario,Over/Under Goals,Under 2.5,1.46,0.6903,1-1,WON,2026-09-16T00:03:09.646Z
+2026-09-19T18:00:00Z,Primera C,Juventud Unida,Centro Español,Over/Under Goals,Under 2.5,1.49,0.6523,2-0,WON,2026-09-16T00:03:09.835Z
+2026-09-19T18:00:00Z,Primera C,Lujan,Atletico Atlas,1X2 / Match Winner,Home,1.95,0.6054,1-0,WON,2026-09-16T00:03:09.768Z
+2026-09-19T18:00:00Z,Primera Division,FC Cajamarca,Cusco,Over/Under Goals,Over 1.5,1.21,0.7955,1-2,WON,2026-09-16T00:03:09.714Z
+2026-09-19T18:15:00Z,1. SNL,Maribor,Aluminij,Over/Under Goals,Under 3.5,1.39,0.7327,2-2,LOST,2026-09-16T00:03:09.365Z
+2026-09-19T18:15:00Z,Ekstraklasa,Motor Lublin,Gornik Zabrze,Over/Under Goals,Over 1.5,1.22,0.7420,0-0,LOST,2026-09-16T00:03:09.340Z
+2026-09-19T18:30:00Z,1a Divisió,Carroi,Penya Encarnada,Over/Under Goals,Under 3.5,1.36,0.7485,2-2,LOST,2026-09-16T00:03:09.112Z
+2026-09-19T18:30:00Z,Challenge League,Vittoriosa Stars,Gudja United,Over/Under Goals,Under 3.5,1.42,0.8109,2-0,WON,2026-09-16T00:03:09.094Z
+2026-09-19T18:30:00Z,Iraqi League,Al Shorta,Al Kahrabaa,Over/Under Goals,Under 3.5,1.27,0.8193,2-0,WON,2026-09-16T00:03:09.311Z
+2026-09-19T18:30:00Z,Primera Nacional,Acassuso,Atletico Mitre,Over/Under Goals,Under 2.5,1.46,0.7106,2-0,WON,2026-09-16T00:03:09.168Z
+2026-09-19T18:30:00Z,Primera Nacional,Ferro Carril Oeste,Ciudad de Bolívar,Over/Under Goals,Under 2.5,1.45,0.6986,1-0,WON,2026-09-16T00:03:09.068Z
+2026-09-19T18:30:00Z,Primera Nacional,San Miguel,All Boys,Over/Under Goals,Under 2.5,1.34,0.7712,1-1,WON,2026-09-16T00:03:09.274Z
+2026-09-19T18:30:00Z,Primera Nacional,San Telmo,CA Estudiantes,Over/Under Goals,Under 2.5,1.43,0.7434,0-1,WON,2026-09-16T00:03:09.290Z
+2026-09-19T18:30:00Z,Super League,FC Sion,FC Zurich,Over/Under Goals,Over 2.5,1.41,0.7557,1-1,LOST,2026-09-16T00:03:09.215Z
+2026-09-19T18:30:00Z,Super Liga,Komárno,Slovan Bratislava,Over/Under Goals,Under 3.5,1.65,0.7722,1-2,WON,2026-09-16T00:03:09.131Z
+2026-09-19T18:45:00Z,Jupiler Pro League,Anderlecht,Zulte Waregem,Over/Under Goals,Under 3.5,1.52,0.7895,3-0,WON,2026-09-16T00:03:08.986Z
+2026-09-19T18:45:00Z,Jupiler Pro League,Lommel United,KV Mechelen,Over/Under Goals,Over 1.5,1.25,0.7708,0-0,LOST,2026-09-16T00:03:08.969Z
+2026-09-19T18:45:00Z,Ligue 1,Angers,Estac Troyes,Over/Under Goals,Under 3.5,1.32,0.7788,2-0,WON,2026-09-16T00:03:08.944Z
+2026-09-19T18:45:00Z,Ligue 1,Le Mans,Lorient,Over/Under Goals,Under 3.5,1.43,0.7194,2-1,WON,2026-09-16T00:03:08.927Z
+2026-09-19T18:45:00Z,Ligue 1,Lyon,Rennes,Over/Under Goals,Under 3.5,1.66,0.7256,4-0,LOST,2026-09-16T00:03:08.909Z
+2026-09-19T18:45:00Z,Ligue 1,Toulouse,Le Havre,Over/Under Goals,Under 3.5,1.37,0.7839,3-2,LOST,2026-09-16T00:03:09.007Z
+2026-09-19T18:45:00Z,Premier Division,Sligo Rovers,St Patrick's Athl.,Over/Under Goals,Under 3.5,1.48,0.7898,0-1,WON,2026-09-16T00:03:08.851Z
+2026-09-19T18:45:00Z,Serie A,Venezia,Lazio,Over/Under Goals,Under 3.5,1.42,0.7404,0-2,WON,2026-09-16T00:03:08.879Z
+2026-09-19T19:00:00Z,Copa de la División Profesional,Always Ready,ABB,1X2 / Match Winner,Home,1.3,0.8310,1-4,LOST,2026-09-16T00:03:08.701Z
+2026-09-19T19:00:00Z,Division Profesional - Clausura,Libertad Asuncion,Sportivo Ameliano,Over/Under Goals,Under 3.5,1.34,0.7392,1-1,WON,2026-09-16T00:03:08.828Z
+2026-09-19T19:00:00Z,Feminine Division 1,Montpellier W,Marseille W,Over/Under Goals,Over 1.5,1.25,0.7808,0-0,LOST,2026-09-16T00:03:08.603Z
+2026-09-19T19:00:00Z,La Liga,Sevilla,Barcelona,1X2 / Match Winner,Away,1.23,0.6493,1-3,WON,2026-09-16T00:03:08.628Z
+2026-09-19T19:00:00Z,Primera A,Millonarios,Chico,Over/Under Goals,Under 3.5,1.4,0.7581,3-0,WON,2026-09-16T00:03:08.733Z
+2026-09-19T19:00:00Z,Primera Nacional,Temperley,Almagro,1X2 / Match Winner,Home,1.91,0.6442,3-1,WON,2026-09-16T00:03:08.663Z
+2026-09-19T19:00:00Z,Segunda Division,Cadiz,Girona,Over/Under Goals,Under 3.5,1.35,0.7646,1-2,WON,2026-09-16T00:03:08.809Z
+2026-09-19T19:00:00Z,Segunda División,Plaza Colonia,Paysandu,Over/Under Goals,Under 3.5,1.23,0.8262,1-1,WON,2026-09-16T00:03:08.747Z
+2026-09-19T19:00:00Z,Serie A,Atletico-MG,Chapecoense-sc,Over/Under Goals,Under 3.5,1.43,0.7487,1-1,WON,2026-09-16T00:03:08.647Z
+2026-09-19T19:00:00Z,Taça de Portugal,Beira-Mar,CF Os Belenenses,Over/Under Goals,Over 1.5,1.29,0.7747,0-2,WON,2026-09-16T00:03:08.578Z
+2026-09-19T19:30:00Z,Brasileiro Women,São Paulo W,Flamengo W,Over/Under Goals,Under 3.5,1.45,0.7243,1-0,WON,2026-09-16T00:03:08.479Z
+2026-09-19T19:30:00Z,Cearense - 3,Vila Real,Pacatuba,Over/Under Goals,Under 3.5,1.21,0.8160,1-0,WON,2026-09-16T00:03:08.435Z
+2026-09-19T19:30:00Z,Primeira Liga,Sporting CP,Arouca,1X2 / Match Winner,Home,1.25,0.8192,2-2,LOST,2026-09-16T00:03:08.508Z
+2026-09-19T19:30:00Z,Segunda División,Yaracuyanos FC,Deportivo Lara,Over/Under Goals,Under 3.5,1.24,0.7413,0-1,WON,2026-09-16T00:03:08.555Z
+2026-09-19T19:30:00Z,Serie B,Sport Recife,Juventude,Over/Under Goals,Under 3.5,1.2,0.8515,2-1,WON,2026-09-16T00:03:08.530Z
+2026-09-19T19:45:00Z,Liga Profesional Argentina,Union Santa Fe,Independiente,Over/Under Goals,Under 3.5,1.2,0.7540,1-2,WON,2026-09-16T00:03:08.413Z
+2026-09-19T20:00:00Z,Goiano - 2,Trindade,Goianésia,Over/Under Goals,Under 3.5,1.21,0.7745,1-0,WON,2026-09-16T00:03:08.349Z
+2026-09-19T20:00:00Z,NWSL Women,Orlando Pride W,Portland Thorns W,Over/Under Goals,Under 3.5,1.53,0.7241,1-4,LOST,2026-09-16T00:03:08.296Z
+2026-09-19T20:00:00Z,Piauiense - 2,Comercial PI,River AC,Over/Under Goals,Under 3.5,1.2,0.8215,2-1,WON,2026-09-16T00:03:08.263Z
+2026-09-19T20:00:00Z,Primera C,Claypole,Yupanqui,Over/Under Goals,Under 3.5,1.28,0.8509,2-1,WON,2026-09-16T00:03:08.188Z
+2026-09-19T20:00:00Z,Primera C,Defensores de Cambaceres,JJ Urquiza,Over/Under Goals,Under 2.5,1.35,0.7771,0-0,WON,2026-09-16T00:03:08.116Z
+2026-09-19T20:00:00Z,Primera C,El Porvenir,Deportivo Español,Over/Under Goals,Under 2.5,1.42,0.8002,0-2,WON,2026-09-16T00:03:08.204Z
+2026-09-19T20:00:00Z,Primera C,Fénix,Deportivo Muñiz,Over/Under Goals,Under 2.5,1.38,0.7385,1-0,WON,2026-09-16T00:03:08.312Z
+2026-09-19T20:00:00Z,Primera C,Lugano,Estrella Del Sur,Over/Under Goals,Under 2.5,1.44,0.6923,1-1,WON,2026-09-16T00:03:08.364Z
+2026-09-19T20:00:00Z,Primera C,Puerto Nuevo,Deportivo Paraguayo,Over/Under Goals,Under 2.5,1.5,0.6882,2-3,LOST,2026-09-16T00:03:08.248Z
+2026-09-19T20:00:00Z,Primera C,Sacachispas,Victoriano Arenas,Over/Under Goals,Under 2.5,1.4,0.7073,0-1,WON,2026-09-16T00:03:08.100Z
+2026-09-19T20:00:00Z,Primera C,Sportivo Barracas,Canuelas,Over/Under Goals,Under 3.5,1.19,0.8753,0-2,WON,2026-09-16T00:03:08.380Z
+2026-09-19T20:00:00Z,Primera División,Academia Anzoátegui,Caracas FC,Over/Under Goals,Under 3.5,1.3,0.8301,1-1,WON,2026-09-17T00:02:24.226Z
+2026-09-19T20:00:00Z,Primera División,Estudiantes de Merida FC,Trujillanos FC,Asian Handicap,Home +0.5,1.21,0.8257,1-1,WON,2026-09-17T00:02:24.292Z
+2026-09-19T20:00:00Z,Primera División,Puerto Cabello,Portuguesa FC,Over/Under Goals,Under 3.5,1.23,0.8214,2-1,WON,2026-09-17T00:02:24.241Z
+2026-09-19T20:00:00Z,Primera División,Rayo Zuliano,Monagas SC,Over/Under Goals,Under 3.5,1.28,0.7521,1-1,WON,2026-09-17T00:02:24.209Z
+2026-09-19T20:00:00Z,Primera División,Zamora FC,Metropolitanos FC,Over/Under Goals,Under 3.5,1.24,0.8057,1-3,LOST,2026-09-17T00:02:24.276Z
+2026-09-19T20:00:00Z,Serie A,Mirassol,Botafogo,Over/Under Goals,Under 3.5,1.4,0.7556,2-0,WON,2026-09-16T00:03:08.172Z
+2026-09-19T20:00:00Z,Serie C,Maringá,Botafogo PB,Over/Under Goals,Under 3.5,1.27,0.7850,2-0,WON,2026-09-16T00:03:08.231Z
+2026-09-19T20:30:00Z,Liga Pro Serie B,Gualaceo SC,LDU Portoviejo,Over/Under Goals,Under 3.5,1.23,0.8948,0-0,WON,2026-09-16T00:03:08.043Z
+2026-09-19T20:30:00Z,Primera Division,Sporting Cristal,Atletico Grau,Over/Under Goals,Under 3.5,1.5,0.6779,3-1,LOST,2026-09-16T00:03:08.021Z
+2026-09-19T20:30:00Z,Primera Premier,Zacatepec 1948,H2o Purepechas,Over/Under Goals,Under 3.5,1.44,0.7364,1-0,WON,2026-09-16T00:03:08.056Z
+2026-09-19T21:00:00Z,Canadian Premier League,Cavalry FC,Forge,Over/Under Goals,Under 3.5,1.26,0.7659,1-1,WON,2026-09-16T00:03:07.968Z
+2026-09-19T21:00:00Z,Copa Paulista,Noroeste,Primavera SP,Over/Under Goals,Under 2.5,1.55,0.4933,0-0,WON,2026-09-16T00:03:07.851Z
+2026-09-19T21:00:00Z,Liga Nacional,Aurora,Marquense,Over/Under Goals,Under 3.5,1.25,0.7760,1-0,WON,2026-09-16T00:03:07.893Z
+2026-09-19T21:00:00Z,Primera Division,Cacahuatique,FAS,Over/Under Goals,Under 3.5,1.23,0.7278,0-2,WON,2026-09-16T00:03:07.984Z
+2026-09-19T21:00:00Z,Primera Nacional,Atletico DE Rafaela,San Martin Tucuman,Over/Under Goals,Under 2.5,1.37,0.7102,4-2,LOST,2026-09-16T00:03:07.923Z
+2026-09-19T21:30:00Z,Copa de la División Profesional,Aurora,Universitario de Vinto,Over/Under Goals,Under 3.5,1.62,0.7364,4-2,LOST,2026-09-16T00:03:07.798Z
+2026-09-19T21:30:00Z,Division Profesional - Clausura,Cerro Porteno,Rubio NU,Over/Under Goals,Under 3.5,1.27,0.7348,1-0,WON,2026-09-16T00:03:07.724Z
+2026-09-19T21:30:00Z,Primera Premier,Pioneros de Cancún,Tapachula,Over/Under Goals,Over 1.5,1.2,0.8178,5-1,WON,2026-09-16T00:03:07.817Z
+2026-09-19T21:30:00Z,Serie A,Remo,Santos,Over/Under Goals,Under 3.5,1.34,0.7899,1-2,WON,2026-09-16T00:03:07.773Z
+2026-09-19T21:30:00Z,Serie B,Athletic Club,Botafogo SP,Over/Under Goals,Under 3.5,1.19,0.8253,1-1,WON,2026-09-16T00:03:07.753Z
+2026-09-19T22:00:00Z,Copa Paulista,São José Esporte Clube,Comercial,Over/Under Goals,Under 3.5,1.25,0.8430,3-0,WON,2026-09-16T00:03:07.603Z
+2026-09-19T22:00:00Z,Liga Premier Serie A,Artesanos Metepec,Halcones Negros,Over/Under Goals,Under 3.5,1.35,0.8365,2-1,WON,2026-09-16T00:03:07.622Z
+2026-09-19T22:00:00Z,Liga Profesional Argentina,River Plate,Huracan,Over/Under Goals,Under 3.5,1.19,0.7949,1-2,WON,2026-09-16T00:03:07.679Z
+2026-09-19T22:00:00Z,Segunda División,La Luz,Atenas,Over/Under Goals,Under 3.5,1.19,0.8229,0-1,WON,2026-09-16T00:03:07.641Z
+2026-09-19T23:00:00Z,Liga MX,Atletico San Luis,Necaxa,Over/Under Goals,Over 1.5,1.26,0.7838,3-1,WON,2026-09-16T00:03:07.521Z
+2026-09-19T23:00:00Z,Primera Division,Deportivo Garcilaso,Universitario,Over/Under Goals,Under 3.5,1.24,0.7963,4-0,LOST,2026-09-16T00:03:07.500Z
+2026-09-19T23:00:00Z,Primera Division,Inter,Isidro Metapán,Over/Under Goals,Under 3.5,1.22,0.7909,0-0,WON,2026-09-16T00:03:07.544Z
+2026-09-19T23:00:00Z,Primera División,Puntarenas FC,Escorpiones Belén,Over/Under Goals,Under 3.5,1.38,0.7402,1-0,WON,2026-09-16T00:03:07.361Z
+2026-09-19T23:00:00Z,Primera División,Real Esppor Club,Deportivo Tachira FC,Over/Under Goals,Under 3.5,1.24,0.7360,2-4,LOST,2026-09-17T00:02:24.170Z
+2026-09-19T23:00:00Z,USL Championship,Charleston Battery,Monterey Bay,1X2 / Match Winner,Home,1.5,0.7641,1-0,WON,2026-09-16T00:03:07.401Z
+2026-09-19T23:00:00Z,USL Championship,Detroit City,Pittsburgh Riverhounds,Over/Under Goals,Under 3.5,1.19,0.8902,1-0,WON,2026-09-16T00:03:07.297Z
+2026-09-19T23:00:00Z,USL Championship,Lexington,Orange County SC,Over/Under Goals,Under 3.5,1.47,0.6963,6-0,LOST,2026-09-16T00:03:07.474Z
+2026-09-19T23:00:00Z,USL Championship,Louisville City,Loudoun United,Over/Under Goals,Under 3.5,1.68,0.6654,2-1,WON,2026-09-16T00:03:07.282Z
+2026-09-19T23:00:00Z,USL League One,Chattanooga Red Wolves,Portland Hearts of Pine,Over/Under Goals,Over 1.5,1.19,0.7913,1-1,WON,2026-09-16T00:03:07.338Z
+2026-09-19T23:00:00Z,USL League One,Forward Madison,Alta,Over/Under Goals,Under 3.5,1.53,0.7020,3-0,WON,2026-09-16T00:03:07.419Z
+2026-09-19T23:00:00Z,USL Super League,Carolina Ascent W,Brooklyn W,Over/Under Goals,Under 3.5,1.37,0.7071,1-0,WON,2026-09-16T00:03:07.441Z
+2026-09-19T23:10:00Z,Primera A,Deportivo Cali,Cucuta,Over/Under Goals,Under 3.5,1.3,0.7593,3-0,WON,2026-09-16T00:03:07.223Z
+2026-09-19T23:15:00Z,Liga Panameña de Fútbol,Independiente de La Chorrera,Sporting San Miguelito,Over/Under Goals,Under 3.5,1.23,0.8209,4-3,LOST,2026-09-16T00:03:07.205Z
+2026-09-19T23:30:00Z,Major League Soccer,CF Montreal,Columbus Crew,Over/Under Goals,Over 1.5,1.19,0.7683,0-2,WON,2026-09-16T00:03:07.122Z
+2026-09-19T23:30:00Z,Major League Soccer,DC United,Charlotte,Over/Under Goals,Under 3.5,1.62,0.6918,1-2,WON,2026-09-16T00:03:07.035Z
+2026-09-19T23:30:00Z,Serie A,Vasco DA Gama,Coritiba,Over/Under Goals,Under 3.5,1.36,0.7737,5-0,LOST,2026-09-16T00:03:07.082Z
+2026-09-19T23:30:00Z,USL Championship,Rhode Island,Miami FC,Over/Under Goals,Under 3.5,1.49,0.7832,1-2,WON,2026-09-16T00:03:07.147Z
+2026-09-19T23:30:00Z,USL Championship,Tampa Bay Rowdies,Birmingham Legion,Over/Under Goals,Under 3.5,1.6,0.6858,4-0,LOST,2026-09-16T00:03:07.184Z
+2026-09-19T23:30:00Z,USL League One,Fort Wayne,Naples,Over/Under Goals,Under 3.5,1.44,0.7171,2-2,LOST,2026-09-16T00:03:07.101Z
+2026-09-19T23:30:00Z,USL League One,Sarasota Paradise,Greenville Triumph,Over/Under Goals,Over 1.5,1.23,0.7990,6-0,WON,2026-09-16T00:03:07.007Z
+2026-09-20T00:00:00Z,Canadian Premier League,Pacific FC,Vancouver FC,Over/Under Goals,Under 3.5,1.52,0.7261,1-1,WON,2026-09-17T00:02:36.847Z
+2026-09-20T00:00:00Z,Liga Premier Serie A,Calor de San Pedro,Ciervos,1X2 / Match Winner,Home,1.34,0.7273,4-0,WON,2026-09-17T00:02:36.734Z
+2026-09-20T00:00:00Z,Primera Division,Walter Ferretti,Jalapa,Over/Under Goals,Under 3.5,1.3,0.7662,0-1,WON,2026-09-17T00:02:36.762Z
+2026-09-20T00:00:00Z,Serie A,Sao Paulo,Internacional,Over/Under Goals,Under 3.5,1.29,0.7789,1-0,WON,2026-09-17T00:02:36.794Z
+2026-09-20T00:00:00Z,USL League One,Union Omaha,One Knoxville,Over/Under Goals,Under 3.5,1.42,0.7322,2-1,WON,2026-09-17T00:02:36.829Z
+2026-09-20T00:45:00Z,NWSL Women,Denver Summit W,OL Reign Women,Over/Under Goals,Under 3.5,1.45,0.7507,2-1,WON,2026-09-17T00:02:36.588Z
+2026-09-20T01:00:00Z,Liga Premier Serie A,Delfines Coatzacoalcos,Real Refineros,Over/Under Goals,Under 3.5,1.36,0.8771,2-2,LOST,2026-09-17T00:02:36.533Z
+2026-09-20T01:00:00Z,Liga de Expansión MX,CDS Tampico Madero,Dorados,Over/Under Goals,Under 3.5,1.43,0.7025,1-1,WON,2026-09-17T00:02:36.552Z
+2026-09-20T01:00:00Z,Liga de Expansión MX,Cancún,Alebrijes de Oaxaca,Over/Under Goals,Under 3.5,1.32,0.6404,3-0,WON,2026-09-17T00:02:36.502Z
+2026-09-20T01:00:00Z,USL Championship,Colorado Springs,New Mexico United,Over/Under Goals,Under 3.5,1.5,0.7444,0-0,WON,2026-09-17T00:02:36.483Z
+2026-09-20T01:10:00Z,Liga MX,Monterrey,Cruz Azul,Over/Under Goals,Over 1.5,1.2,0.7710,1-0,LOST,2026-09-17T00:02:36.446Z
+2026-09-20T01:15:00Z,Primera A,Deportivo Pasto,Once Caldas,Over/Under Goals,Under 3.5,1.3,0.7598,1-0,WON,2026-09-17T00:02:36.425Z
+2026-09-20T01:15:00Z,Primera Division,FBC Melgar,Sport Boys,Over/Under Goals,Under 3.5,1.39,0.7689,1-1,WON,2026-09-17T00:02:36.406Z
+2026-09-20T01:30:00Z,Liga Nacional,Real Espana,CD Motagua,Over/Under Goals,Under 3.5,1.34,0.7899,1-0,WON,2026-09-17T00:02:36.367Z
+2026-09-20T01:30:00Z,Liga Panameña de Fútbol,Plaza Amador,Veraguas,Over/Under Goals,Under 3.5,1.48,0.5630,1-1,WON,2026-09-17T00:02:36.385Z
+2026-09-20T01:30:00Z,Major League Soccer,Colorado Rapids,Seattle Sounders,Over/Under Goals,Under 3.5,1.47,0.7665,3-3,LOST,2026-09-17T00:02:36.348Z
+2026-09-20T02:00:00Z,Primera División,Deportivo Saprissa,CS Herediano,Over/Under Goals,Under 3.5,1.3,0.7544,2-0,WON,2026-09-17T00:02:36.293Z
+2026-09-20T02:00:00Z,USL Championship,Phoenix Rising,El Paso Locomotive,Over/Under Goals,Under 3.5,1.46,0.7364,1-3,LOST,2026-09-17T00:02:36.274Z
+2026-09-20T02:30:00Z,USL Championship,Las Vegas Lights,Hartford Athletic,Over/Under Goals,Under 3.5,1.4,0.7616,1-1,WON,2026-09-17T00:02:36.235Z
+2026-09-20T03:15:00Z,Liga MX,Club America,Guadalajara Chivas,Over/Under Goals,Under 3.5,1.42,0.7670,2-2,LOST,2026-09-17T00:02:36.217Z
