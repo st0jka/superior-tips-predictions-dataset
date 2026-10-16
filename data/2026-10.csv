@@ -649,3 +649,50 @@ date_utc,league,home,away,market,pick,price_at_publish,model_probability,result,
 2026-10-08T00:30:00Z,Copa de la División Profesional,Guabirá,The Strongest,Over/Under Goals,Under 3.5,1.55,0.6213,2-1,WON,2026-10-04T00:04:53.583Z
 2026-10-08T00:30:00Z,Serie A,Cruzeiro FC,Sao Paulo,Over/Under Goals,Over 1.5,1.33,0.7514,2-0,WON,2026-10-05T00:03:10.174Z
 2026-10-08T00:30:00Z,USL League One,Corpus Christi,Fort Wayne,Over/Under Goals,Over 1.5,1.2,0.7727,1-3,WON,2026-10-05T00:03:10.283Z
+2026-10-08T10:00:00Z,1. Division,Shakhter Karagandy,Akademiya Ontustik,1X2 / Match Winner,Home,1.21,0.7426,2-0,WON,2026-10-05T00:03:09.995Z
+2026-10-08T11:00:00Z,Ligi kuu Bara,Mashujaa,Polisi Tanzania,Over/Under Goals,Under 2.5,1.52,0.6384,2-1,LOST,2026-10-05T00:03:09.848Z
+2026-10-08T11:30:00Z,First League,Ararat-Armenia II,Andranik,1X2 / Match Winner,Away,1.21,0.6765,1-4,WON,2026-09-23T00:03:13.928Z
+2026-10-08T11:30:00Z,First League,Mika,Sardarapat 2,1X2 / Match Winner,Home,1.46,0.6603,3-2,WON,2026-09-23T00:03:13.946Z
+2026-10-08T12:00:00Z,ASEAN Club Championship,Johor Darul Ta'zim FC,Svay Rieng,1X2 / Match Winner,Home,1.27,0.6930,6-0,WON,2026-10-07T00:03:36.757Z
+2026-10-08T12:00:00Z,ASEAN Club Championship,Port FC,Persib Bandung,Over/Under Goals,Over 1.5,1.33,0.7667,1-3,WON,2026-10-07T00:03:36.858Z
+2026-10-08T12:00:00Z,Premier League,Shabab Al Sahel,Tadamon Sour,Over/Under Goals,Under 3.5,1.29,0.8281,0-1,WON,2026-10-05T00:03:09.339Z
+2026-10-08T13:00:00Z,Premier League,Al Ansar,Al Hikma,Over/Under Goals,Over 1.5,1.21,0.8196,2-1,WON,2026-10-05T00:03:06.602Z
+2026-10-08T13:00:00Z,Pro League A,Gazalkent,Pakhtakor II,1X2 / Match Winner,Home,1.26,0.8210,3-2,WON,2026-10-05T00:03:09.034Z
+2026-10-08T13:10:00Z,League Cup,Al Ain,Al-Ittihad Kalba,1X2 / Match Winner,Home,1.25,0.7189,2-2,LOST,2026-10-05T00:03:08.633Z
+2026-10-08T13:10:00Z,League Cup,Shabab Al Ahli Dubai,Dubai United,Over/Under Goals,Over 2.5,1.33,0.5553,2-1,WON,2026-10-05T00:03:08.696Z
+2026-10-08T13:15:00Z,Ligi kuu Bara,Pamba Jiji,Geita Gold,Over/Under Goals,Under 3.5,1.2,0.8182,4-0,LOST,2026-10-05T00:03:08.584Z
+2026-10-08T14:00:00Z,League Cup,Al Ittihad,Wadi Degla,Over/Under Goals,Under 3.5,1.21,0.8359,0-1,WON,2026-10-05T00:03:08.351Z
+2026-10-08T14:45:00Z,Stars League,Al Shamal,Al-Duhail SC,Over/Under Goals,Over 1.5,1.2,0.7976,0-4,WON,2026-10-05T00:03:07.932Z
+2026-10-08T15:00:00Z,Iraqi League,Duhok,Al Zawra'a,Over/Under Goals,Under 3.5,1.22,0.8300,3-0,WON,2026-10-06T00:04:04.445Z
+2026-10-08T15:00:00Z,Liga Alef,Hapoel Ramat HaSharon,Hapoel Azor,Over/Under Goals,Over 1.5,1.31,0.6530,1-1,WON,2026-10-06T00:04:12.422Z
+2026-10-08T15:00:00Z,Liga II,FC Politehnica Timisoara,CSA Steaua Bucureşti,Over/Under Goals,Under 3.5,1.38,0.6328,1-1,WON,2026-10-05T00:03:08.098Z
+2026-10-08T15:00:00Z,Veikkausliiga,HJK Helsinki,Vaasan Palloseura,Over/Under Goals,Over 1.5,1.22,0.7983,6-0,WON,2026-10-05T00:03:07.695Z
+2026-10-08T15:45:00Z,Iraqi League,Naft Maysan,Erbil,Over/Under Goals,Under 3.5,1.25,0.8063,1-1,WON,2026-10-05T00:03:06.958Z
+2026-10-08T15:45:00Z,League Cup,Al Khaleej,Al-Wasl FC,Asian Handicap,Away -0.5,1.24,0.7583,1-2,WON,2026-10-05T00:03:07.384Z
+2026-10-08T16:00:00Z,First League,Mornar,Jezero,1X2 / Match Winner,Home,1.52,0.5287,3-3,LOST,2026-10-07T00:04:01.098Z
+2026-10-08T16:00:00Z,Liga Alef,Hapoel Marmorek,Maccabi Ashdod,Over/Under Goals,Over 1.5,1.33,0.7517,1-1,WON,2026-10-06T00:04:11.791Z
+2026-10-08T17:00:00Z,First Division League (FDL),Al Akhdoud,Al Ula,Over/Under Goals,Under 3.5,1.38,0.8389,1-5,LOST,2026-09-16T00:03:12.162Z
+2026-10-08T17:00:00Z,Liga Alef,Tira,Ironi Nesher,Over/Under Goals,Over 1.5,1.23,0.7713,2-1,WON,2026-10-07T00:04:27.046Z
+2026-10-08T17:00:00Z,Ligue 1,JS Saoura,Oued Akbou,Over/Under Goals,Under 2.5,1.54,0.6995,0-0,WON,2026-09-16T00:03:12.677Z
+2026-10-08T17:00:00Z,Svenska Cupen - Women,Enskede W,Brommapojkarna W,Asian Handicap,Away -0.5,1.27,0.6932,1-2,WON,2026-09-20T00:03:24.868Z
+2026-10-08T17:30:00Z,Iraqi League,Al Talaba,Al Shorta,Over/Under Goals,Under 3.5,1.23,0.7939,0-0,WON,2026-10-06T00:03:56.762Z
+2026-10-08T18:00:00Z,Botola Pro,CR Khemis Zemamra,Hassania Agadir,Over/Under Goals,Under 2.5,1.52,0.6181,2-5,LOST,2026-10-06T00:03:44.264Z
+2026-10-08T18:00:00Z,Botola Pro,FAR Rabat,Widad Témara,1X2 / Match Winner,Home,1.47,0.6028,1-0,WON,2026-10-06T00:03:44.193Z
+2026-10-08T18:00:00Z,Copa do Brasil U20,Grêmio U20,Operário PR U20,1X2 / Match Winner,Home,1.57,0.7980,1-3,LOST,2026-10-05T00:03:06.849Z
+2026-10-08T18:00:00Z,Primera Division,UCV Moquegua,Cienciano,Over/Under Goals,Over 1.5,1.28,0.7834,0-2,WON,2026-10-07T00:03:36.653Z
+2026-10-08T19:15:00Z,Liga Pro Serie B,Atletico FC,San Antonio,1X2 / Match Winner,Home,1.59,0.7261,2-1,WON,2026-10-04T00:04:52.282Z
+2026-10-08T19:30:00Z,Copa do Brasil U20,Flamengo U20,Vasco da Gama U20,Over/Under Goals,Over 1.5,1.25,0.8153,2-2,WON,2026-10-05T00:03:06.497Z
+2026-10-08T20:00:00Z,Botola Pro,Maghreb Fès,Raja Casablanca,Over/Under Goals,Under 2.5,1.45,0.6746,0-0,WON,2026-10-06T00:03:44.098Z
+2026-10-08T20:00:00Z,Segunda División,Bentín Tacna Heroica,Carlos A. Mannucci,Over/Under Goals,Over 1.5,1.32,0.7463,0-0,LOST,2026-10-05T00:03:06.443Z
+2026-10-08T20:30:00Z,Copa do Brasil U20,São Paulo U20,Athletico PR U20,Over/Under Goals,Over 1.5,1.2,0.8546,3-1,WON,2026-10-05T00:03:06.384Z
+2026-10-08T20:30:00Z,Primera B,Depor FC,Real Cartagena,Over/Under Goals,Over 1.5,1.29,0.8440,2-2,WON,2026-08-12T00:04:34.467Z
+2026-10-08T20:30:00Z,Primera Division,Atletico Grau,Cultural Santa Rosa,Over/Under Goals,Under 3.5,1.36,0.6032,0-0,WON,2026-10-07T00:03:36.541Z
+2026-10-08T22:30:00Z,Serie B,Ceara,Criciuma,Over/Under Goals,Over 1.5,1.48,0.6687,1-0,LOST,2026-10-05T00:03:06.181Z
+2026-10-08T22:30:00Z,Serie B,Nautico Recife,Novorizontino,Over/Under Goals,Over 1.5,1.33,0.7104,0-2,WON,2026-10-05T00:03:06.014Z
+2026-10-08T23:00:00Z,Copa do Brasil U20,Botafogo U20,Bahia U20,Over/Under Goals,Over 1.5,1.2,0.9101,1-0,LOST,2026-10-05T00:03:05.841Z
+2026-10-08T23:00:00Z,Serie A,Atletico Paranaense,Atletico-MG,Over/Under Goals,Over 1.5,1.35,0.7513,2-2,WON,2026-10-05T00:03:05.908Z
+2026-10-09T00:30:00Z,Serie A,Fluminense,Coritiba,1X2 / Match Winner,Home,1.53,0.6236,4-0,WON,2026-10-06T00:04:16.568Z
+2026-10-09T00:30:00Z,Serie A,Palmeiras,Bahia,1X2 / Match Winner,Home,1.58,0.6050,1-0,WON,2026-10-06T00:04:16.458Z
+2026-10-09T01:00:00Z,Liga Nacional,Antigua GFC,Municipal,Over/Under Goals,Under 3.5,1.22,0.7815,1-1,WON,2026-09-17T00:02:36.520Z
+2026-10-09T01:00:00Z,Liga de Expansión MX,Alebrijes de Oaxaca,Correcaminos Uat,Over/Under Goals,Over 1.5,1.21,0.7832,2-1,WON,2026-10-06T00:04:16.325Z
+2026-10-09T01:10:00Z,Primera A,Fortaleza FC,Millonarios,Over/Under Goals,Over 1.5,1.33,0.7272,1-1,WON,2026-10-08T00:05:32.418Z
