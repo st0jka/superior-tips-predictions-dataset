@@ -49,7 +49,7 @@ same day. From 2026-08-27, the day every market began to settle under one defini
 | `kickoff_utc`, `country`, `league`, `home`, `away` | The game. |
 | `pick`, `price`, `probability` | The pick on that game, its price and printed chance in percent. |
 | `result` | Final score, 90 minutes plus stoppage. |
-| `leg_grade` | `WON` or `LOST`; empty when the game was not graded because the ticket had already lost. |
+| `leg_grade` | `WON` or `LOST`; empty if the site shows no grade for that game. |
 
 ### `data/vip/YYYY-MM.csv`
 
