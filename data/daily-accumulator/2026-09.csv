@@ -1,0 +1,65 @@
+day,ticket_price,ticket_grade,leg,kickoff_utc,country,league,home,away,pick,price,probability,result,leg_grade
+2026-09-01,1.84,WON,1,2026-09-01T21:30:00Z,Ecuador,Liga Pro,Delfin SC,Tecnico Universitario,Goals Over/Under: Under 2.5,1.47,75,1 - 0,WON
+2026-09-01,1.84,WON,2,2026-09-01T14:00:00Z,Turkey,1. Lig,Ümraniyespor,Muğlaspor,Goals Over/Under: Under 3.5,1.25,80,0 - 1,WON
+2026-09-02,2.57,LOST,1,2026-09-02T18:30:00Z,Poland,Cup,Widzew Łódź,Korona Kielce,Goals Over/Under: Under 3.5,1.34,92,0 - 1,WON
+2026-09-02,2.57,LOST,2,2026-09-02T14:30:00Z,Greece,Cup,Marko,Kifisia,Goals Over/Under: Under 3.5,1.22,81,2 - 2,LOST
+2026-09-02,2.57,LOST,3,2026-09-02T19:00:00Z,Paraguay,Division Profesional - Clausura,Sportivo Ameliano,Sportivo Trinidense,Goals Over/Under: Under 2.5,1.57,57,0 - 3,LOST
+2026-09-03,2.07,LOST,1,2026-09-03T01:25:00Z,Colombia,Primera A,Santa Fe,Millonarios,Goals Over/Under: Under 3.5,1.24,83,3 - 2,LOST
+2026-09-03,2.07,LOST,2,2026-09-03T23:00:00Z,Brazil,Copa Do Brasil,Gremio,Internacional,Goals Over/Under: Under 3.5,1.23,82,3 - 1,LOST
+2026-09-03,2.07,LOST,3,2026-09-03T16:00:00Z,Lithuania,A Lyga,Banga,Panevėžys,Goals Over/Under: Under 3.5,1.36,91,0 - 3,WON
+2026-09-04,1.97,LOST,1,2026-09-04T16:00:00Z,Denmark,1. Division,Hobro,Hvidovre,Goals Over/Under: Under 3.5,1.37,82,1 - 3,LOST
+2026-09-04,1.97,LOST,2,2026-09-04T18:45:00Z,Ireland,First Division,Treaty United,Wexford,Goals Over/Under: Under 3.5,1.44,81,0 - 1,WON
+2026-09-05,2.07,LOST,1,2026-09-05T21:00:00Z,Brazil,Serie B,Juventude,Atletico Goianiense,Goals Over/Under: Under 2.5,1.52,82,2 - 2,LOST
+2026-09-05,2.07,LOST,2,2026-09-05T17:00:00Z,Turkey,1. Lig,Pendikspor,Ümraniyespor,Goals Over/Under: Under 3.5,1.36,92,1 - 0,WON
+2026-09-06,1.97,LOST,1,2026-09-06T22:00:00Z,Canada,Canadian Premier League,Vancouver FC,Supra du Quebec,Goals Over/Under: Under 3.5,1.45,83,3 - 2,LOST
+2026-09-06,1.97,LOST,2,2026-09-06T17:45:00Z,Chile,Primera Division,O'Higgins,Union La Calera,Goals Over/Under: Under 3.5,1.36,90,2 - 1,WON
+2026-09-07,2.1,LOST,1,2026-09-07T20:30:00Z,Costa-Rica,Liga de Ascenso,AD Carmelita,Pitbulls Santa Barbara FC,Goals Over/Under: Under 3.5,1.38,81,1 - 2,WON
+2026-09-07,2.1,LOST,2,2026-09-07T13:00:00Z,Greece,Super League 2,Athens Kallithea FC,Niki Volos,Goals Over/Under: Under 2.5,1.52,60,2 - 1,LOST
+2026-09-08,2.08,WON,1,2026-09-08T18:45:00Z,England,Championship,Blackburn,Sheffield United,Goals Over/Under: Under 3.5,1.36,80,1 - 2,WON
+2026-09-08,2.08,WON,2,2026-09-08T16:00:00Z,Finland,Veikkausliiga,Gnistan,KuPS,Goals Over/Under: Under 3.5,1.53,80,1 - 1,WON
+2026-09-09,2.04,WON,1,2026-09-09T22:00:00Z,Argentina,Copa Argentina,Deportivo Riestra,Banfield,Goals Over/Under: Under 2.5,1.48,59,1 - 1,WON
+2026-09-09,2.04,WON,2,2026-09-09T15:00:00Z,Finland,Veikkausliiga,HJK Helsinki,Inter Turku,Goals Over/Under: Under 3.5,1.38,89,2 - 1,WON
+2026-09-10,1.93,WON,1,2026-09-10T17:00:00Z,Sweden,Superettan,GIF Sundsvall,Orebro SK,Goals Over/Under: Under 3.5,1.35,79,0 - 3,WON
+2026-09-10,1.93,WON,2,2026-09-10T17:00:00Z,Sweden,Superettan,Ostersunds FK,IK brage,Goals Over/Under: Under 3.5,1.43,79,1 - 1,WON
+2026-09-11,1.73,LOST,1,2026-09-11T23:15:00Z,Colombia,Primera A,Jaguares,Fortaleza FC,Goals Over/Under: Under 3.5,1.2,92,2 - 2,LOST
+2026-09-11,1.73,LOST,2,2026-09-11T18:45:00Z,Belgium,Jupiler Pro League,KV Mechelen,Anderlecht,Goals Over/Under: Under 3.5,1.44,79,0 - 1,WON
+2026-09-12,1.95,LOST,1,2026-09-12T14:00:00Z,Scotland,Championship,Ayr Utd,Inverness CT,Goals Over/Under: Under 3.5,1.27,84,1 - 3,LOST
+2026-09-12,1.95,LOST,2,2026-09-12T14:00:00Z,England,League Two,Shrewsbury,Northampton,Goals Over/Under: Under 3.5,1.24,81,2 - 0,WON
+2026-09-12,1.95,LOST,3,2026-09-12T21:00:00Z,El-Salvador,Primera Division,Atletico Balboa,Platense,Goals Over/Under: Under 3.5,1.24,80,3 - 1,LOST
+2026-09-13,1.83,LOST,1,2026-09-13T15:45:00Z,Iraq,Iraqi League,Al Kahrabaa,Al Minaa Basra,Goals Over/Under: Under 2.5,1.46,61,2 - 1,LOST
+2026-09-13,1.83,LOST,2,2026-09-13T07:30:00Z,South-Korea,K League 2,Gyeongnam FC,Seongnam FC,Goals Over/Under: Under 3.5,1.25,81,1 - 0,WON
+2026-09-14,2.39,LOST,1,2026-09-14T22:30:00Z,Brazil,Serie B,Botafogo SP,Goias,Goals Over/Under: Under 2.5,1.56,62,1 - 3,LOST
+2026-09-14,2.39,LOST,2,2026-09-14T17:00:00Z,Egypt,Premier League,Ceramica Cleopatra,National Bank of Egypt,Goals Over/Under: Under 2.5,1.53,62,2 - 0,WON
+2026-09-15,1.89,WON,1,2026-09-15T18:30:00Z,Poland,Ekstraklasa,Korona Kielce,Gornik Zabrze,Goals Over/Under: Under 3.5,1.26,81,0 - 2,WON
+2026-09-15,1.89,WON,2,2026-09-15T00:30:00Z,Brazil,Serie B,Avai,Vila Nova,Goals Over/Under: Under 3.5,1.23,80,1 - 1,WON
+2026-09-15,1.89,WON,3,2026-09-15T01:00:00Z,Panama,Liga Panameña de Fútbol,Sporting San Miguelito,San Francisco FC,Goals Over/Under: Under 3.5,1.22,78,0 - 2,WON
+2026-09-16,1.88,LOST,1,2026-09-16T14:00:00Z,Egypt,Premier League,El Gouna FC,Petrojet,Goals Over/Under: Under 2.5,1.52,62,1 - 2,LOST
+2026-09-16,1.88,LOST,2,2026-09-16T17:00:00Z,Spain,La Liga,Deportivo La Coruna,Sevilla,Goals Over/Under: Under 3.5,1.24,75,0 - 1,WON
+2026-09-17,1.7,WON,1,2026-09-17T15:30:00Z,Russia,Premier League,FC Rostov,Dinamo Moscow,Goals Over/Under: Under 3.5,1.28,77,0 - 3,WON
+2026-09-17,1.7,WON,2,2026-09-17T15:30:00Z,Russia,Premier League,Akron,Akhmat,Goals Over/Under: Under 3.5,1.33,77,2 - 0,WON
+2026-09-18,1.87,WON,1,2026-09-18T19:00:00Z,England,Premier League,Brentford,Chelsea,Goals Over/Under: Over 1.5,1.2,82,3 - 0,WON
+2026-09-18,1.87,WON,2,2026-09-18T18:30:00Z,Germany,Bundesliga 1,Bayern München,Union Berlin,Goals Over/Under: Over 2.5,1.2,81,7 - 0,WON
+2026-09-18,1.87,WON,3,2026-09-18T18:45:00Z,Italy,Serie A,Monza,Sassuolo,Goals Over/Under: Over 1.5,1.3,76,2 - 1,WON
+2026-09-19,1.6,LOST,1,2026-09-19T19:30:00Z,Portugal,Primeira Liga,Sporting CP,Arouca,Match Winner: Home,1.25,82,2 - 2,LOST
+2026-09-19,1.6,LOST,2,2026-09-19T20:00:00Z,Argentina,Primera C,Claypole,Yupanqui,Goals Over/Under: Under 3.5,1.28,84,2 - 1,WON
+2026-09-20,1.6,LOST,1,2026-09-20T16:00:00Z,Greece,Super League 1,OFI Crete,Asteras Tripolis,Goals Over/Under: Under 3.5,1.25,77,2 - 2,LOST
+2026-09-20,1.6,LOST,2,2026-09-20T21:30:00Z,Paraguay,Division Profesional - Clausura,Sportivo Luqueno,Deportivo Recoleta,Goals Over/Under: Over 1.5,1.28,75,1 - 0,LOST
+2026-09-21,1.61,LOST,1,2026-09-21T22:30:00Z,Uruguay,Primera División - Apertura,Central Espanol,Atletico Torque,Goals Over/Under: Under 3.5,1.27,76,1 - 4,LOST
+2026-09-21,1.61,LOST,2,2026-09-21T20:30:00Z,Colombia,Primera B,Bogota FC,Barranquilla,Goals Over/Under: Under 3.5,1.27,76,2 - 1,WON
+2026-09-22,1.63,WON,1,2026-09-22T12:00:00Z,England,Professional Development League,Wigan Athletic U21,Coventry City U21,Goals Over/Under: Over 2.5,1.25,77,2 - 2,WON
+2026-09-22,1.63,WON,2,2026-09-22T10:00:00Z,World,Asian Games,Korea Republic U23,Saudi Arabia U23,Goals Over/Under: Over 1.5,1.3,74,2 - 0,WON
+2026-09-23,1.74,WON,1,2026-09-23T15:00:00Z,Nigeria,NPFL,Bendel Insurance,Ikorodu City,Goals Over/Under: Under 3.5,1.37,71,2 - 1,WON
+2026-09-23,1.74,WON,2,2026-09-23T10:30:00Z,World,Asian Games,Kyrgyz Republic U23,Hong Kong U23,Goals Over/Under: Over 1.5,1.27,76,4 - 0,WON
+2026-09-24,1.75,WON,1,2026-09-24T19:00:00Z,World,Africa Cup of Nations - Qualification,Tunisia,Uganda,Goals Over/Under: Over 1.5,1.4,70,1 - 1,WON
+2026-09-24,1.75,WON,2,2026-09-24T19:00:00Z,World,Africa Cup of Nations - Qualification,Ivory Coast,Ghana,Goals Over/Under: Under 3.5,1.25,77,2 - 0,WON
+2026-09-25,1.75,WON,1,2026-09-25T19:00:00Z,World,Africa Cup of Nations - Qualification,Algeria,Zambia,Goals Over/Under: Over 1.5,1.36,73,3 - 1,WON
+2026-09-25,1.75,WON,2,2026-09-25T18:45:00Z,Scotland,Championship,Ayr Utd,Stenhousemuir,Goals Over/Under: Under 3.5,1.29,75,0 - 1,WON
+2026-09-26,1.79,WON,1,2026-09-26T18:45:00Z,World,UEFA Nations League,Slovakia,Moldova,Goals Over/Under: Over 1.5,1.25,77,2 - 0,WON
+2026-09-26,1.79,WON,2,2026-09-26T14:00:00Z,England,League Two,Bristol Rovers,Exeter City,Goals Over/Under: Under 3.5,1.43,74,1 - 0,WON
+2026-09-27,1.35,WON,1,2026-09-27T18:00:00Z,Chile,Copa Chile,Concepción,Curico Unido,Goals Over/Under: Over 1.5,1.35,76,2 - 0,WON
+2026-09-28,1.66,WON,1,2026-09-28T19:00:00Z,World,Africa Cup of Nations - Qualification,Botswana,Tunisia,Goals Over/Under: Over 1.5,1.25,77,2 - 2,WON
+2026-09-28,1.66,WON,2,2026-09-28T18:00:00Z,England,Professional Development League,Swansea City U21,Queens Park Rangers U21,Goals Over/Under: Over 2.5,1.33,76,4 - 2,WON
+2026-09-29,1.61,LOST,1,2026-09-29T12:00:00Z,England,Professional Development League,Coventry City U21,Colchester United U21,Goals Over/Under: Over 2.5,1.25,79,1 - 0,LOST
+2026-09-29,1.61,LOST,2,2026-09-29T18:45:00Z,World,UEFA Nations League,Luxembourg,Iceland,Goals Over/Under: Under 3.5,1.29,76,0 - 3,WON
+2026-09-30,1.61,LOST,1,2026-09-30T18:00:00Z,Spain,Copa Federacion,Navalcarnero,Real Murcia,Goals Over/Under: Over 1.5,1.29,80,3 - 1,WON
+2026-09-30,1.61,LOST,2,2026-09-30T23:30:00Z,USA,USL Championship,Rhode Island,Indy Eleven,Goals Over/Under: Over 1.5,1.25,79,1 - 0,LOST

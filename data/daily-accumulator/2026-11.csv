@@ -1,0 +1,9 @@
+day,ticket_price,ticket_grade,leg,kickoff_utc,country,league,home,away,pick,price,probability,result,leg_grade
+2026-11-01,1.69,LOST,1,2026-11-01T23:00:00Z,Uruguay,Primera División - Apertura,Liverpool Montevideo,Juventud,Goals Over/Under: Under 3.5,1.33,85,2 - 0,WON
+2026-11-01,1.69,LOST,2,2026-11-01T11:35:00Z,China,FA Cup,Yunnan Yukun,Dalian Zhixing,Total - Home: Under 2.5,1.27,84,4 - 3,LOST
+2026-11-02,1.77,WON,1,2026-11-02T19:30:00Z,Poland,Ekstraklasa,Raków Częstochowa,Pogon Szczecin,Goals Over/Under: Over 1.5,1.29,85,3 - 1,WON
+2026-11-02,1.77,WON,2,2026-11-02T20:00:00Z,Spain,Segunda Division,Mallorca,Cadiz,Total - Home: Under 2.5,1.37,83,2 - 1,WON
+2026-11-03,1.5,WON,1,2026-11-03T20:00:00Z,World,UEFA Champions League,Feyenoord,Inter,Goals Over/Under: Over 1.5,1.24,89,0 - 3,WON
+2026-11-03,1.5,WON,2,2026-11-03T22:30:00Z,Brazil,Serie A,Chapecoense-sc,Mirassol,Total - Away: Over 0.5,1.21,83,1 - 2,WON
+2026-11-04,1.5,WON,1,2026-11-04T17:45:00Z,World,UEFA Champions League,AEK Athens FC,Real Madrid,Goals Over/Under: Over 1.5,1.2,88,2 - 3,WON
+2026-11-04,1.5,WON,2,2026-11-04T23:30:00Z,Venezuela,Primera División,Metropolitanos FC,Carabobo FC,Total - Home: Under 2.5,1.25,77,0 - 2,WON
