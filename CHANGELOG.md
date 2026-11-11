@@ -8,7 +8,8 @@ it applies forward and the change is dated here, so the rule behind any row can 
 
 The dataset now holds the three products a reader is told to play: Top picks, the Daily Accumulator
 and the VIP channel, in `data/top-picks/`, `data/daily-accumulator/` and `data/vip/`. The
-every-match feed in `data/YYYY-MM.csv` is retired and its files are removed.
+every-match feed in `data/YYYY-MM.csv` is retired and its files are removed. From the same day, each
+day's Top picks and Daily Accumulator are also pushed to `data/before-kickoff/` before their games.
 
 ## 2026-09-04
 

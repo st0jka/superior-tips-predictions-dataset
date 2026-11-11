@@ -67,12 +67,21 @@ Every pick posted in the VIP channel, football and basketball, as the record on
 | `result` | Final score. |
 | `grade` | `WON`, `HALF_WON`, `VOID`, `HALF_LOST` or `LOST`. |
 
+### `data/before-kickoff/`
+
+From 2026-11-11, each day's Top picks and Daily Accumulator are also pushed here once they are
+frozen and before their games, so the repository's push history shows every pick came first.
+`before-kickoff/top-picks/YYYY-MM.csv` and `before-kickoff/daily-accumulator/YYYY-MM.csv` carry the
+same columns as the settled files up to `probability`, plus `recorded_utc`, when the row was
+written. A pick goes up only if its game starts at least 15 minutes after the push, and a ticket
+only if none of its games has started. VIP is a paid channel, so its picks join only once settled.
+
 ## Rules
 
 - **Locked before kickoff.** Top picks and the accumulator are frozen once per day and every VIP pick
   is posted before its game. A pick is never changed after kickoff.
-- **Settled only, seven days later.** A day joins the files once it is seven days old, so every row
-  is settled and nothing live is published here.
+- **Settled, seven days later.** A day joins the settled files once it is seven days old, so every
+  row there is graded.
 - **Settlement.** Football settles on 90 minutes plus stoppage. A basketball pick settles as its
   text says, overtime included. `VOID` means the stake came back.
 - **Append only.** A published row is never rewritten. Changes are dated in
@@ -98,4 +107,4 @@ GET https://api.superiortips.com/vip/record?month=YYYY-MM
 
 ## Not in this dataset
 
-No live or upcoming picks. No picks outside these three products. No personal data of any kind.
+No picks outside these three products. No VIP pick before its game. No personal data of any kind.
