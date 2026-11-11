@@ -4,11 +4,17 @@ The data is append only: a published row is never rewritten. When a rule that pr
 it applies forward and the change is dated here, so the rule behind any row can be read from its
 `date_utc` alone.
 
+## 2026-11-11
+
+The dataset now holds the three products a reader is told to play: Top picks, the Daily Accumulator
+and the VIP channel, in `data/top-picks/`, `data/daily-accumulator/` and `data/vip/`. The
+every-match feed in `data/YYYY-MM.csv` is retired and its files are removed.
+
 ## 2026-09-04
 
 First release. Rows begin at the start of the retained window and are added nightly.
 
-## Rule history for rows in this dataset
+## Rule history of the retired every-match feed
 
 - **2026-08-27, one settlement definition.** From this date every selection settles under one shared
   definition of each market, and a level Asian handicap (a `+0` line) on a drawn match is graded

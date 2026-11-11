@@ -1,23 +1,24 @@
 cff-version: 1.2.0
 message: If you use this dataset, please cite it as below.
-title: Superior Tips settled football predictions
+title: "Superior Tips settled picks: Top picks, Daily Accumulator and VIP"
 abstract: >-
-  An append-only record of football predictions published before kickoff and graded after the final
-  whistle, wins and losses both. One row per settled selection: kickoff, competition, teams, market,
-  the selection as published, the price it was published at, the model probability from the frozen
-  pre-match snapshot, the final regulation score and the grade.
+  An append-only record of the picks Superior Tips puts in front of readers to play: the daily Top
+  picks (rank 1 is the Bet of the Day), the Daily Accumulator and the VIP channel. Every pick is
+  locked before kickoff and graded after the final whistle, wins and losses both: kickoff,
+  competition, teams, the pick as published, its price, the printed chance, the final score and the
+  grade.
 type: dataset
 authors:
   - name: Superior Football Desk
     website: https://superiortips.com
     email: contact@superiortips.com
 repository-code: https://github.com/st0jka/superior-tips-predictions-dataset
-url: https://superiortips.com/proof
+url: https://superiortips.com
 license: CC-BY-4.0
 keywords:
   - football
   - soccer
+  - basketball
   - prediction
   - forecast evaluation
-  - calibration
   - sports analytics
