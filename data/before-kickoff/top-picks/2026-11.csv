@@ -1,2 +1,11 @@
 day,rank,bet_of_the_day,kickoff_utc,country,league,home,away,pick,price,probability,recorded_utc
 2026-11-11,1,yes,2026-11-11T23:00:00Z,Colombia,Primera B,Real Soacha,Real Cartagena,Home Goals: Under 2.5,1.33,79,2026-11-11T13:56:01Z
+2026-11-12,1,yes,2026-11-12T19:45:00Z,World,UEFA Nations League,Czech Republic,Spain,Corners: Under 11.5,1.3,79,2026-11-12T01:10:00Z
+2026-11-12,2,no,2026-11-12T19:45:00Z,World,UEFA Nations League,England,Croatia,Match Winner: Home,1.28,79,2026-11-12T01:10:00Z
+2026-11-12,3,no,2026-11-12T17:00:00Z,World,UEFA Nations League,Armenia,Cyprus,Goals: Under 3.5,1.28,78,2026-11-12T01:10:00Z
+2026-11-12,4,no,2026-11-12T19:45:00Z,World,UEFA Nations League,Montenegro,Latvia,Corners: Under 11.5,1.26,76,2026-11-12T01:10:00Z
+2026-11-13,1,yes,2026-11-13T19:45:00Z,World,UEFA Nations League,Bulgaria,Iceland,Double Chance: Draw/Away,1.2,80,2026-11-12T01:10:00Z
+2026-11-13,2,no,2026-11-13T19:45:00Z,World,UEFA Nations League,Slovenia,Switzerland,Goals: Under 3.5,1.28,76,2026-11-12T01:10:00Z
+2026-11-13,3,no,2026-11-13T19:45:00Z,World,UEFA Nations League,Luxembourg,Estonia,Goals: Under 3.5,1.2,75,2026-11-12T01:10:00Z
+2026-11-13,4,no,2026-11-13T19:45:00Z,World,UEFA Nations League,Andorra,Gibraltar,BTTS: No,1.5,66,2026-11-12T01:10:00Z
+2026-11-13,5,no,2026-11-13T19:00:00Z,World,Africa Cup of Nations - Qualification,Egypt,Malawi,Goals: Under 3.5,1.5,65,2026-11-12T01:10:00Z

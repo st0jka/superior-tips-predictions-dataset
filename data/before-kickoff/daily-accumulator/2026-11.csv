@@ -1,3 +1,7 @@
 day,ticket_price,leg,kickoff_utc,country,league,home,away,pick,price,probability,recorded_utc
 2026-11-11,1.62,1,2026-11-11T23:00:00Z,Colombia,Primera B,Real Soacha,Real Cartagena,Total - Home: Under 2.5,1.33,79,2026-11-11T13:56:01Z
 2026-11-11,1.62,2,2026-11-11T19:30:00Z,Uruguay,Segunda División,La Luz,Fenix,Goals Over/Under: Under 3.5,1.22,77,2026-11-11T13:56:01Z
+2026-11-12,1.66,1,2026-11-12T23:00:00Z,Uruguay,Primera División - Apertura,Cerro Largo,Progreso,Goals Over/Under: Under 3.5,1.28,80,2026-11-12T01:10:00Z
+2026-11-12,1.66,2,2026-11-12T19:45:00Z,World,UEFA Nations League,Czech Republic,Spain,Corners Over Under: Under 11.5,1.3,79,2026-11-12T01:10:00Z
+2026-11-13,1.59,1,2026-11-13T19:45:00Z,Northern-Ireland,Premiership,Ballymena United,Linfield,Total - Away: Under 2.5,1.24,84,2026-11-12T01:10:00Z
+2026-11-13,1.59,2,2026-11-13T19:45:00Z,World,UEFA Nations League,Slovenia,Switzerland,Goals Over/Under: Under 3.5,1.28,76,2026-11-12T01:10:00Z

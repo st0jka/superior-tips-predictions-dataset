@@ -18,3 +18,5 @@ day,sport,kickoff_utc,country,league,home,away,pick,price,stake_pct,result,grade
 2026-11-04,football,2026-11-04T20:00:00Z,World,UEFA Champions League,FC Porto,Napoli,FC Porto +0.5 Asian handicap,1.3,1,4-1,WON
 2026-11-04,football,2026-11-04T20:00:00Z,World,UEFA Champions League,RB Leipzig,Manchester City,RB Leipzig to score,1.304,1,2-3,WON
 2026-11-04,football,2026-11-04T22:30:00Z,Brazil,Serie A,Athletico Paranaense,Vasco da Gama,Athletico Paranaense +0.5 Asian handicap,1.34,2,1-3,LOST
+2026-11-05,football,2026-11-05T20:00:00Z,World,UEFA Europa Conference League,Twente,Pafos,Twente -0.5 Asian handicap,1.4,1,3-1,WON
+2026-11-05,football,2026-11-05T20:00:00Z,World,UEFA Europa League,Celta Vigo,Union Saint-Gilloise,Under 3.5 goals,1.38,1,1-2,WON
