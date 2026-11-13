@@ -24,3 +24,8 @@ day,rank,bet_of_the_day,kickoff_utc,country,league,home,away,pick,price,probabil
 2026-11-05,3,no,2026-11-05T17:45:00Z,World,UEFA Europa League,Crystal Palace,1899 Hoffenheim,Home Goals: Under 2.5,1.34,86,1 - 1,WON
 2026-11-05,4,no,2026-11-05T17:45:00Z,World,UEFA Europa Conference League,Trabzonspor,SC Freiburg,Home Goals: Over 0.5,1.19,84,0 - 1,LOST
 2026-11-05,5,no,2026-11-05T20:00:00Z,World,UEFA Europa League,AZ Alkmaar,Juventus,Away Goals: Under 2.5,1.23,84,1 - 2,WON
+2026-11-06,1,yes,2026-11-06T19:00:00Z,Netherlands,Eredivisie,Willem II,PEC Zwolle,Home Goals: Under 2.5,1.19,84,1 - 1,WON
+2026-11-06,2,no,2026-11-06T20:45:00Z,Portugal,Primeira Liga,Famalicao,Arouca,Home Goals: Under 2.5,1.21,82,1 - 0,WON
+2026-11-06,3,no,2026-11-06T19:45:00Z,France,Ligue 1,Toulouse,Strasbourg,Goals: Over 1.5,1.19,80,3 - 1,WON
+2026-11-06,4,no,2026-11-06T19:45:00Z,Belgium,Jupiler Pro League,Standard Liege,Waasland-Beveren,Home Goals: Under 2.5,1.33,80,3 - 0,LOST
+2026-11-06,5,no,2026-11-06T08:30:00Z,Indonesia,Liga 1,PSIM Yogyakarta,Dewa United,Away Goals: Under 2.5,1.22,79,1 - 2,WON
