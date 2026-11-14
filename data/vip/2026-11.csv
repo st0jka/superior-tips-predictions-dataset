@@ -22,3 +22,8 @@ day,sport,kickoff_utc,country,league,home,away,pick,price,stake_pct,result,grade
 2026-11-05,football,2026-11-05T20:00:00Z,World,UEFA Europa League,Celta Vigo,Union Saint-Gilloise,Under 3.5 goals,1.38,1,1-2,WON
 2026-11-06,football,2026-11-06T19:00:00Z,France,Ligue 2,Grenoble,Reims,Reims +0.5 Asian handicap,1.26,1,3-2,LOST
 2026-11-06,football,2026-11-06T19:45:00Z,Belgium,Jupiler Pro League,Standard Liege,Waasland-Beveren,Standard Liege under 2.5 team goals,1.278,1,3-0,LOST
+2026-11-07,football,2026-11-07T05:00:00Z,South Korea,K League 1,Jeju United,Gwangju FC,Jeju under 2.5 team goals,1.254,2,1-1,WON
+2026-11-07,football,2026-11-07T06:00:00Z,Japan,J1 League,Avispa Fukuoka,V-Varen Nagasaki,Under 3.5 goals,1.26,1,1-1,WON
+2026-11-07,football,2026-11-07T15:00:00Z,England,Championship,West Brom,Millwall,West Brom +0.5 Asian handicap,1.27,1,3-0,WON
+2026-11-07,football,2026-11-07T16:00:00Z,Turkey,Super Lig,Göztepe,Başakşehir,Göztepe +0.5 Asian handicap,1.34,1,1-2,LOST
+2026-11-07,football,2026-11-07T16:30:00Z,Russia,Premier League,Krasnodar,CSKA Moscow,Over 1.5 goals,1.23,2,4-2,WON

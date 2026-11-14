@@ -14,3 +14,6 @@ day,rank,bet_of_the_day,kickoff_utc,country,league,home,away,pick,price,probabil
 2026-11-14,3,no,2026-11-14T17:00:00Z,World,UEFA Nations League,Georgia,Hungary,Goals: Under 3.5,1.19,80,2026-11-13T01:10:01Z
 2026-11-14,4,no,2026-11-14T14:00:00Z,World,UEFA Nations League,Kosovo National Team,Israel,Home Goals: Under 2.5,1.24,79,2026-11-13T01:10:01Z
 2026-11-14,5,no,2026-11-14T02:00:00Z,World,CONCACAF Nations League,Guatemala,Canada,Goals: Under 3.5,1.36,79,2026-11-13T01:10:01Z
+2026-11-15,1,yes,2026-11-15T17:00:00Z,World,UEFA Nations League,Belarus,Albania,Goals: Under 3.5,1.22,81,2026-11-14T01:10:01Z
+2026-11-15,2,no,2026-11-15T13:15:00Z,Kenya,FKF Premier League,3K,GOR Mahia,Goals: Under 3.5,1.23,78,2026-11-14T01:10:01Z
+2026-11-15,3,no,2026-11-15T19:45:00Z,World,UEFA Nations League,Belgium,Italy,Home Goals: Under 2.5,1.2,74,2026-11-14T01:10:01Z

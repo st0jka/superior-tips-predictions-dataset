@@ -7,3 +7,5 @@ day,ticket_price,leg,kickoff_utc,country,league,home,away,pick,price,probability
 2026-11-13,1.59,2,2026-11-13T19:45:00Z,World,UEFA Nations League,Slovenia,Switzerland,Goals Over/Under: Under 3.5,1.28,76,2026-11-12T01:10:00Z
 2026-11-14,1.55,1,2026-11-14T15:00:00Z,Scotland,League Two,Stirling Albion,Elgin City,Total - Away: Under 2.5,1.22,83,2026-11-13T01:10:01Z
 2026-11-14,1.55,2,2026-11-14T20:00:00Z,Spain,Segunda Division,Oviedo,Girona,Total - Home: Over 0.5,1.27,80,2026-11-13T01:10:01Z
+2026-11-15,1.56,1,2026-11-15T19:30:00Z,Uruguay,Primera División - Apertura,Danubio,Liverpool Montevideo,Goals Over/Under: Under 3.5,1.25,84,2026-11-14T01:10:01Z
+2026-11-15,1.56,2,2026-11-15T20:15:00Z,Peru,Primera Division,Juan Pablo II College,Deportivo Garcilaso,Goals Over/Under: Over 1.5,1.25,82,2026-11-14T01:10:01Z

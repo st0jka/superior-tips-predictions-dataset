@@ -10,3 +10,5 @@ day,ticket_price,ticket_grade,leg,kickoff_utc,country,league,home,away,pick,pric
 2026-11-05,1.25,WON,1,2026-11-05T20:00:00Z,World,UEFA Europa League,Celta Vigo,Union St. Gilloise,Total - Home: Under 2.5,1.25,90,1 - 2,WON
 2026-11-06,1.52,WON,1,2026-11-06T17:00:00Z,Denmark,1. Division,Vejle,FC Fredericia,Total - Home: Under 2.5,1.19,82,1 - 0,WON
 2026-11-06,1.52,WON,2,2026-11-06T17:00:00Z,Croatia,HNL,NK Lokomotiva Zagreb,Rudes,Total - Home: Under 2.5,1.28,81,0 - 1,WON
+2026-11-07,1.5,LOST,1,2026-11-07T18:00:00Z,Canada,Canadian Premier League,Forge,Atlético Ottawa,Total - Away: Under 2.5,1.22,88,2 - 3,LOST
+2026-11-07,1.5,LOST,2,2026-11-07T16:00:00Z,Austria,Tipp3 Bundesliga,Austria Lustenau,Grazer AK,Goals Over/Under: Over 1.5,1.23,83,2 - 1,WON

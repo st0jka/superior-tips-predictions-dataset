@@ -29,3 +29,8 @@ day,rank,bet_of_the_day,kickoff_utc,country,league,home,away,pick,price,probabil
 2026-11-06,3,no,2026-11-06T19:45:00Z,France,Ligue 1,Toulouse,Strasbourg,Goals: Over 1.5,1.19,80,3 - 1,WON
 2026-11-06,4,no,2026-11-06T19:45:00Z,Belgium,Jupiler Pro League,Standard Liege,Waasland-Beveren,Home Goals: Under 2.5,1.33,80,3 - 0,LOST
 2026-11-06,5,no,2026-11-06T08:30:00Z,Indonesia,Liga 1,PSIM Yogyakarta,Dewa United,Away Goals: Under 2.5,1.22,79,1 - 2,WON
+2026-11-07,1,yes,2026-11-08T01:00:00Z,Mexico,Liga MX,Tigres UANL,Cruz Azul,Goals: Over 1.5,1.2,85,2 - 3,WON
+2026-11-07,2,no,2026-11-07T16:30:00Z,Russia,Premier League,FC Krasnodar,CSKA Moscow,Goals: Over 1.5,1.31,85,4 - 2,WON
+2026-11-07,3,no,2026-11-07T06:00:00Z,Japan,J1 League,Avispa Fukuoka,V-varen Nagasaki,Home Goals: Under 2.5,1.19,84,1 - 1,WON
+2026-11-07,4,no,2026-11-07T21:00:00Z,USA,Major League Soccer,Orlando City SC,New England Revolution,Away Goals: Over 0.5,1.19,83,1 - 0,LOST
+2026-11-07,5,no,2026-11-07T16:00:00Z,Turkey,Super Lig,Göztepe,İstanbul Başakşehir,Goals: Over 1.5,1.2,83,1 - 2,WON
