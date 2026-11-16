@@ -31,3 +31,6 @@ day,sport,kickoff_utc,country,league,home,away,pick,price,stake_pct,result,grade
 2026-11-08,football,2026-11-08T16:00:00Z,Scotland,Premiership,Celtic,Kilmarnock,Celtic to win,1.2,1,1-0,WON
 2026-11-08,football,2026-11-08T17:30:00Z,Spain,La Liga,Celta Vigo,Levante,Celta Vigo under 2.5 team goals,1.273,1,0-0,WON
 2026-11-08,football,2026-11-08T20:00:00Z,Spain,La Liga,Atlético Madrid,Barcelona,Atlético Madrid to score,1.204,1,1-2,WON
+2026-11-09,football,2026-11-09T19:30:00Z,Spain,Segunda Division,Las Palmas,Eldense,Las Palmas under 2.5 team goals,1.249,1,2-0,WON
+2026-11-09,football,2026-11-09T19:30:00Z,Spain,Segunda Division,Sabadell,Real Sociedad II,Sabadell under 2.5 team goals,1.229,1,0-0,WON
+2026-11-09,football,2026-11-10T00:00:00Z,Colombia,Primera A,Junior,Cúcuta,Under 3.5 goals,1.48,1,2-0,WON

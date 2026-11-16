@@ -14,3 +14,5 @@ day,ticket_price,ticket_grade,leg,kickoff_utc,country,league,home,away,pick,pric
 2026-11-07,1.5,LOST,2,2026-11-07T16:00:00Z,Austria,Tipp3 Bundesliga,Austria Lustenau,Grazer AK,Goals Over/Under: Over 1.5,1.23,83,2 - 1,WON
 2026-11-08,1.59,LOST,1,2026-11-08T23:00:00Z,El-Salvador,Primera Division,Municipal Limeño,Atletico Balboa,Total - Home: Under 2.5,1.21,87,3 - 4,LOST
 2026-11-08,1.59,LOST,2,2026-11-08T12:30:00Z,Bulgaria,Second League,Vihren,Lokomotiv G. Oryahovitsa,Goals Over/Under: Under 3.5,1.31,84,3 - 1,LOST
+2026-11-09,1.59,WON,1,2026-11-09T13:00:00Z,Greece,Super League 2,Zakynthos,Niki Volos,Goals Over/Under: Under 3.5,1.3,84,0 - 2,WON
+2026-11-09,1.59,WON,2,2026-11-09T12:25:00Z,Saudi-Arabia,Division 2,Najran,Al Najoom,Goals Over/Under: Under 3.5,1.22,78,0 - 1,WON

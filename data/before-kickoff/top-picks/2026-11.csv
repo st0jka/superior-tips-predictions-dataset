@@ -22,3 +22,8 @@ day,rank,bet_of_the_day,kickoff_utc,country,league,home,away,pick,price,probabil
 2026-11-16,3,no,2026-11-16T13:00:00Z,World,Africa Cup of Nations - Qualification,Namibia,Cameroon,Goals: Under 3.5,1.24,76,2026-11-15T01:10:01Z
 2026-11-16,4,no,2026-11-16T17:00:00Z,World,UEFA Nations League,Iceland,Luxembourg,Match Winner: Home,1.38,74,2026-11-15T01:10:01Z
 2026-11-16,5,no,2026-11-16T15:00:00Z,World,UEFA Nations League,Kazakhstan,Slovakia,Away Goals: Under 2.5,1.34,73,2026-11-15T01:10:01Z
+2026-11-17,1,yes,2026-11-17T19:45:00Z,World,UEFA Nations League,Hungary,Northern Ireland,Goals: Under 3.5,1.2,82,2026-11-16T01:10:01Z
+2026-11-17,2,no,2026-11-17T19:45:00Z,World,UEFA Nations League,Republic of Ireland,Kosovo National Team,Goals: Under 3.5,1.2,79,2026-11-16T01:10:01Z
+2026-11-17,3,no,2026-11-17T13:00:00Z,World,Africa Cup of Nations - Qualification,Ethiopia,Mozambique,Goals: Under 3.5,1.23,79,2026-11-16T01:10:01Z
+2026-11-17,4,no,2026-11-17T19:00:00Z,World,Africa Cup of Nations - Qualification,Liberia,Cape Verde,Goals: Over 1.5,1.3,74,2026-11-16T01:10:01Z
+2026-11-17,5,no,2026-11-17T19:45:00Z,World,UEFA Nations League,Ukraine,Georgia,Goals: Under 3.5,1.34,74,2026-11-16T01:10:01Z
