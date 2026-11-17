@@ -34,3 +34,5 @@ day,sport,kickoff_utc,country,league,home,away,pick,price,stake_pct,result,grade
 2026-11-09,football,2026-11-09T19:30:00Z,Spain,Segunda Division,Las Palmas,Eldense,Las Palmas under 2.5 team goals,1.249,1,2-0,WON
 2026-11-09,football,2026-11-09T19:30:00Z,Spain,Segunda Division,Sabadell,Real Sociedad II,Sabadell under 2.5 team goals,1.229,1,0-0,WON
 2026-11-09,football,2026-11-10T00:00:00Z,Colombia,Primera A,Junior,Cúcuta,Under 3.5 goals,1.48,1,2-0,WON
+2026-11-10,basketball,2026-11-10T17:00:00Z,,EuroCup Basketball,Neptūnas,Slask Wroclaw,"Over 162.5 points, overtime included",1.27,1,92-82,WON
+2026-11-10,basketball,2026-11-11T01:00:00Z,,NBA,76ers,Celtics,"Celtics +6.5, overtime included",1.43,1,101-123,WON
