@@ -38,3 +38,7 @@ day,sport,kickoff_utc,country,league,home,away,pick,price,stake_pct,result,grade
 2026-11-10,basketball,2026-11-11T01:00:00Z,,NBA,76ers,Celtics,"Celtics +6.5, overtime included",1.43,1,101-123,WON
 2026-11-12,football,2026-11-12T17:00:00Z,World,UEFA Nations League,Armenia,Cyprus,Under 3.5 goals,1.29,1,1-1,WON
 2026-11-12,football,2026-11-12T19:45:00Z,World,UEFA Nations League,England,Croatia,England to win,1.29,1,2-1,WON
+2026-11-13,football,2026-11-13T17:30:00Z,Germany,Frauen Bundesliga,Hamburger SV Women,Mainz 05 Women,Over 1.5 goals,1.2,1,6-1,WON
+2026-11-13,football,2026-11-13T19:45:00Z,World,UEFA Nations League,Bulgaria,Iceland,Iceland +0.5 Asian handicap,1.19,2,0-5,WON
+2026-11-13,football,2026-11-13T19:45:00Z,World,UEFA Nations League,Luxembourg,Estonia,Under 3.5 goals,1.18,1,0-1,WON
+2026-11-13,football,2026-11-13T19:45:00Z,World,UEFA Nations League,Slovenia,Switzerland,Under 3.5 goals,1.22,2,0-0,WON
