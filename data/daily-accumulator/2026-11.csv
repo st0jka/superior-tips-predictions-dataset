@@ -24,3 +24,5 @@ day,ticket_price,ticket_grade,leg,kickoff_utc,country,league,home,away,pick,pric
 2026-11-12,1.66,LOST,2,2026-11-12T19:45:00Z,World,UEFA Nations League,Czech Republic,Spain,Corners Over Under: Under 11.5,1.3,79,0 - 2,LOST
 2026-11-13,1.59,LOST,1,2026-11-13T19:45:00Z,Northern-Ireland,Premiership,Ballymena United,Linfield,Total - Away: Under 2.5,1.24,84,0 - 3,LOST
 2026-11-13,1.59,LOST,2,2026-11-13T19:45:00Z,World,UEFA Nations League,Slovenia,Switzerland,Goals Over/Under: Under 3.5,1.28,76,0 - 0,WON
+2026-11-14,1.55,WON,1,2026-11-14T15:00:00Z,Scotland,League Two,Stirling Albion,Elgin City,Total - Away: Under 2.5,1.22,83,2 - 1,WON
+2026-11-14,1.55,WON,2,2026-11-14T20:00:00Z,Spain,Segunda Division,Oviedo,Girona,Total - Home: Over 0.5,1.27,80,1 - 2,WON
