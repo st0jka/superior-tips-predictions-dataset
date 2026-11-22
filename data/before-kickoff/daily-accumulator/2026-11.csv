@@ -23,3 +23,5 @@ day,ticket_price,leg,kickoff_utc,country,league,home,away,pick,price,probability
 2026-11-21,1.65,2,2026-11-21T16:30:00Z,Malta,Premier League,Birzebbuga,Birkirkara,Total - Away: Under 2.5,1.24,84,2026-11-20T01:10:01Z
 2026-11-22,1.63,1,2026-11-22T12:00:00Z,Hungary,NB II,Szentlőrinc SE,Kecskeméti TE,Goals Over/Under: Over 1.5,1.21,86,2026-11-21T01:10:01Z
 2026-11-22,1.63,2,2026-11-22T17:00:00Z,Italy,Serie A,AC Milan,Frosinone,Total - Away: Over 0.5,1.35,83,2026-11-21T01:10:01Z
+2026-11-23,1.52,1,2026-11-23T19:45:00Z,Italy,Serie A,Monza,Fiorentina,Goals Over/Under: Over 1.5,1.2,85,2026-11-22T01:10:01Z
+2026-11-23,1.52,2,2026-11-23T15:00:00Z,Greece,Super League 1,Asteras Tripolis,Aris Thessaloniki,Goals Over/Under: Under 3.5,1.27,79,2026-11-22T01:10:01Z
