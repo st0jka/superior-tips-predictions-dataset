@@ -25,3 +25,5 @@ day,ticket_price,leg,kickoff_utc,country,league,home,away,pick,price,probability
 2026-11-22,1.63,2,2026-11-22T17:00:00Z,Italy,Serie A,AC Milan,Frosinone,Total - Away: Over 0.5,1.35,83,2026-11-21T01:10:01Z
 2026-11-23,1.52,1,2026-11-23T19:45:00Z,Italy,Serie A,Monza,Fiorentina,Goals Over/Under: Over 1.5,1.2,85,2026-11-22T01:10:01Z
 2026-11-23,1.52,2,2026-11-23T15:00:00Z,Greece,Super League 1,Asteras Tripolis,Aris Thessaloniki,Goals Over/Under: Under 3.5,1.27,79,2026-11-22T01:10:01Z
+2026-11-24,1.51,1,2026-11-24T20:00:00Z,World,UEFA Champions League,Feyenoord,FC Porto,Total - Away: Over 0.5,1.19,83,2026-11-23T01:10:01Z
+2026-11-24,1.51,2,2026-11-24T17:45:00Z,World,UEFA Champions League,Galatasaray,Aston Villa,Total - Away: Under 2.5,1.27,83,2026-11-23T01:10:01Z

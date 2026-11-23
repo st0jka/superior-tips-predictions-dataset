@@ -53,3 +53,7 @@ day,sport,kickoff_utc,country,league,home,away,pick,price,stake_pct,result,grade
 2026-11-15,football,2026-11-15T05:00:00Z,Japan,J2 League,Imabari,Jubilo Iwata,Jubilo Iwata +0.5 Asian handicap,1.27,2,0-2,WON
 2026-11-15,football,2026-11-15T17:00:00Z,World,UEFA Nations League,Belarus,Albania,Under 3.5 goals,1.21,2,0-2,WON
 2026-11-15,football,2026-11-15T17:30:00Z,Spain,Segunda Division,Eldense,Sabadell,Under 3.5 goals,1.22,1,2-0,WON
+2026-11-16,football,2026-11-16T13:00:00Z,World,Africa Cup of Nations - Qualification,Namibia,Cameroon,Under 3.5 goals,1.2,1,0-3,WON
+2026-11-16,football,2026-11-16T17:00:00Z,World,UEFA Nations League,Lithuania,Liechtenstein,Under 3.5 goals,1.39,2,2-1,WON
+2026-11-16,football,2026-11-16T17:00:00Z,World,UEFA U21 Championship - Qualification,Greece U21,Iceland U21,Greece under 2.5 goals,1.256,1,1-1,WON
+2026-11-16,football,2026-11-16T19:45:00Z,World,UEFA Nations League,North Macedonia,Slovenia,Under 3.5 goals,1.24,2,0-3,WON

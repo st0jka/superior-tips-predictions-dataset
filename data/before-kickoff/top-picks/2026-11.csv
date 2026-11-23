@@ -52,3 +52,8 @@ day,rank,bet_of_the_day,kickoff_utc,country,league,home,away,pick,price,probabil
 2026-11-23,3,no,2026-11-23T15:00:00Z,Egypt,Premier League,El Gouna FC,Zamalek SC,Goals: Under 3.5,1.2,81,2026-11-22T01:10:01Z
 2026-11-23,4,no,2026-11-23T20:00:00Z,England,Premier League,Brentford,Everton,Home Goals: Under 2.5,1.22,81,2026-11-22T01:10:01Z
 2026-11-23,5,no,2026-11-23T20:00:00Z,Spain,La Liga,Levante,Elche,Home Goals: Under 2.5,1.23,80,2026-11-22T01:10:01Z
+2026-11-24,1,yes,2026-11-24T20:00:00Z,World,UEFA Champions League,Feyenoord,FC Porto,Away Goals: Over 0.5,1.19,83,2026-11-23T01:10:01Z
+2026-11-24,2,no,2026-11-24T01:00:00Z,USA,Major League Soccer,St. Louis City,Los Angeles FC,Away Goals: Over 0.5,1.22,83,2026-11-23T01:10:01Z
+2026-11-24,3,no,2026-11-24T17:45:00Z,World,UEFA Champions League,Galatasaray,Aston Villa,Away Goals: Under 2.5,1.27,83,2026-11-23T01:10:01Z
+2026-11-24,4,no,2026-11-24T18:00:00Z,Egypt,Premier League,El Mokawloon,Olympic El Qanah,Goals: Under 3.5,1.2,82,2026-11-23T01:10:01Z
+2026-11-24,5,no,2026-11-24T20:00:00Z,Scotland,Premiership,Rangers,Aberdeen,Match Winner: Home,1.25,80,2026-11-23T01:10:01Z
