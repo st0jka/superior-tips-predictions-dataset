@@ -62,3 +62,8 @@ day,rank,bet_of_the_day,kickoff_utc,country,league,home,away,pick,price,probabil
 2026-11-25,3,no,2026-11-25T10:00:00Z,Japan,J1 League,JEF United Chiba,Nagoya Grampus,Away Goals: Under 2.5,1.24,84,2026-11-24T01:10:01Z
 2026-11-25,4,no,2026-11-25T15:00:00Z,Russia,Cup,Akhmat,FC Krasnodar,Away Goals: Over 0.5,1.21,83,2026-11-24T01:10:01Z
 2026-11-25,5,no,2026-11-25T20:00:00Z,World,UEFA Champions League,Club Brugge KV,Liverpool,Home Goals: Over 0.5,1.25,82,2026-11-24T01:10:01Z
+2026-11-26,1,yes,2026-11-26T20:00:00Z,World,UEFA Europa Conference League,Gent,FK Crvena Zvezda,Home Goals: Under 2.5,1.2,85,2026-11-25T01:10:01Z
+2026-11-26,2,no,2026-11-26T08:30:00Z,Indonesia,Liga 1,Pusamania Borneo,Persita,Home Goals: Under 2.5,1.19,85,2026-11-25T01:10:01Z
+2026-11-26,3,no,2026-11-26T17:30:00Z,Saudi-Arabia,Pro League,Al-Faisaly FC,Al Diriyah,Away Goals: Under 2.5,1.2,85,2026-11-25T01:10:01Z
+2026-11-26,4,no,2026-11-26T14:25:00Z,Saudi-Arabia,Pro League,Al-Fateh,Al Riyadh,Home Goals: Under 2.5,1.19,83,2026-11-25T01:10:01Z
+2026-11-26,5,no,2026-11-26T17:45:00Z,World,UEFA Europa Conference League,Pafos,FC Midtjylland,Home Goals: Over 0.5,1.26,83,2026-11-25T01:10:01Z

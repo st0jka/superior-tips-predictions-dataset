@@ -32,3 +32,5 @@ day,ticket_price,ticket_grade,leg,kickoff_utc,country,league,home,away,pick,pric
 2026-11-16,1.55,WON,2,2026-11-16T19:45:00Z,World,UEFA Nations League,Gibraltar,Malta,Goals Over/Under: Under 3.5,1.2,83,1 - 1,WON
 2026-11-17,1.66,WON,1,2026-11-17T19:45:00Z,World,UEFA Nations League,Hungary,Northern Ireland,Goals Over/Under: Under 3.5,1.2,82,1 - 1,WON
 2026-11-17,1.66,WON,2,2026-11-17T19:00:00Z,World,CONCACAF Nations League,St. Lucia,Barbados,Total - Home: Under 2.5,1.38,83,2 - 0,WON
+2026-11-18,1.68,LOST,1,2026-11-18T12:00:00Z,World,ASEAN Club Championship,Pusamania Borneo,Manila Digger,Total - Home: Under 2.5,1.21,92,1 - 0,WON
+2026-11-18,1.68,LOST,2,2026-11-18T12:00:00Z,Albania,Cup,Pogradeci,FK Kukesi,Goals Over/Under: Under 3.5,1.39,91,5 - 1,LOST

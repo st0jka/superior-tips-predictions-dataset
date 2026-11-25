@@ -29,3 +29,5 @@ day,ticket_price,leg,kickoff_utc,country,league,home,away,pick,price,probability
 2026-11-24,1.51,2,2026-11-24T17:45:00Z,World,UEFA Champions League,Galatasaray,Aston Villa,Total - Away: Under 2.5,1.27,83,2026-11-23T01:10:01Z
 2026-11-25,1.54,1,2026-11-25T20:00:00Z,World,UEFA Champions League,Sporting CP,Manchester United,Total - Home: Over 0.5,1.2,84,2026-11-24T01:10:01Z
 2026-11-25,1.54,2,2026-11-25T17:45:00Z,World,UEFA Champions League,Slavia Praha,Villarreal,Total - Away: Under 2.5,1.28,82,2026-11-24T01:10:01Z
+2026-11-26,1.51,1,2026-11-26T08:30:00Z,Indonesia,Liga 1,Pusamania Borneo,Persita,Total - Home: Under 2.5,1.19,85,2026-11-25T01:10:01Z
+2026-11-26,1.51,2,2026-11-26T20:00:00Z,World,UEFA Europa League,NEC Nijmegen,Rennes,Total - Away: Under 2.5,1.27,82,2026-11-25T01:10:01Z
