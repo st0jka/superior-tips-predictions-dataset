@@ -72,3 +72,6 @@ day,rank,bet_of_the_day,kickoff_utc,country,league,home,away,pick,price,probabil
 2026-11-18,2,no,2026-11-18T22:30:00Z,Brazil,Serie A,Coritiba,Santos,Corners: Over 8.5,1.25,77,0 - 1,LOST
 2026-11-18,3,no,2026-11-18T15:00:00Z,Nigeria,NPFL,Ranchers Bees,Doma United,Home Goals: Under 2.5,1.22,74,2 - 1,WON
 2026-11-18,4,no,2026-11-18T23:00:00Z,Brazil,Serie A,Remo,Chapecoense-sc,Corners: Under 13.5,1.25,71,2 - 0,WON
+2026-11-19,1,yes,2026-11-19T00:30:00Z,Brazil,Serie A,Gremio,Bahia,Home Goals: Over 0.5,1.19,83,0 - 0,LOST
+2026-11-19,2,no,2026-11-19T22:30:00Z,Brazil,Serie A,Vitoria,RB Bragantino,Goals: Over 1.5,1.25,82,2 - 1,WON
+2026-11-19,3,no,2026-11-19T22:30:00Z,Brazil,Serie A,Vasco DA Gama,Internacional,Home Goals: Under 2.5,1.33,81,2 - 1,WON

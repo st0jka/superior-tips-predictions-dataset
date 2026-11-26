@@ -61,3 +61,6 @@ day,sport,kickoff_utc,country,league,home,away,pick,price,stake_pct,result,grade
 2026-11-17,football,2026-11-17T19:45:00Z,World,UEFA Nations League,Hungary,Northern Ireland,Under 3.5 goals,1.21,2,1-1,WON
 2026-11-17,football,2026-11-17T19:45:00Z,World,UEFA Nations League,Republic of Ireland,Kosovo,Under 3.5 goals,1.2,2,3-0,WON
 2026-11-18,football,2026-11-19T00:30:00Z,Brazil,Serie A,Grêmio,Bahia,Grêmio over 0.5 goals,1.215,2,0-0,LOST
+2026-11-19,basketball,2026-11-19T18:00:00Z,,Euroleague,Zalgiris Kaunas,Panathinaikos,"Zalgiris +7.5, overtime included",1.31,1,72-87,LOST
+2026-11-19,football,2026-11-19T18:00:00Z,Denmark,1. Division,FC Fredericia,Hillerød,Fredericia to win,1.36,1,4-1,WON
+2026-11-19,football,2026-11-20T03:00:00Z,USA,Major League Soccer,Seattle Sounders,Real Salt Lake,Seattle under 2.5 goals,1.341,2,1-1,WON
