@@ -33,3 +33,5 @@ day,ticket_price,leg,kickoff_utc,country,league,home,away,pick,price,probability
 2026-11-26,1.51,2,2026-11-26T20:00:00Z,World,UEFA Europa League,NEC Nijmegen,Rennes,Total - Away: Under 2.5,1.27,82,2026-11-25T01:10:01Z
 2026-11-27,1.51,1,2026-11-27T17:30:00Z,Austria,2. Liga,SKU Amstetten,SKN ST. Polten,Goals Over/Under: Over 1.5,1.2,82,2026-11-26T01:10:01Z
 2026-11-27,1.51,2,2026-11-27T16:00:00Z,Serbia,Super Liga,IMT Novi Beograd,Macva,Goals Over/Under: Under 3.5,1.26,81,2026-11-26T01:10:01Z
+2026-11-28,1.63,1,2026-11-28T16:00:00Z,Israel,Ligat Ha'al,Hapoel Haifa,Ironi Tiberias,Goals Over/Under: Over 1.5,1.2,86,2026-11-27T01:10:01Z
+2026-11-28,1.63,2,2026-11-28T16:30:00Z,Ecuador,Liga Pro,Universidad Catolica,Independiente del Valle,Goals Over/Under: Under 3.5,1.36,83,2026-11-27T01:10:01Z

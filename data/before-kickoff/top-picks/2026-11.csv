@@ -72,3 +72,8 @@ day,rank,bet_of_the_day,kickoff_utc,country,league,home,away,pick,price,probabil
 2026-11-27,3,no,2026-11-27T17:00:00Z,Turkey,Super Lig,Rizespor,Kasımpaşa,Home Goals: Under 2.5,1.28,80,2026-11-26T01:10:01Z
 2026-11-27,4,no,2026-11-27T20:00:00Z,Spain,La Liga,Levante,Racing Santander,Home Goals: Under 2.5,1.33,80,2026-11-26T01:10:01Z
 2026-11-27,5,no,2026-11-27T19:45:00Z,Italy,Serie A,Venezia,Bologna,Away Goals: Over 0.5,1.23,78,2026-11-26T01:10:01Z
+2026-11-28,1,yes,2026-11-28T05:00:00Z,Japan,J1 League,Kyoto Sanga,Cerezo Osaka,Corners: Under 12.5,1.19,83,2026-11-27T01:10:01Z
+2026-11-28,2,no,2026-11-28T15:30:00Z,Portugal,Primeira Liga,Moreirense,Santa Clara,Goals: Under 3.5,1.2,83,2026-11-27T01:10:01Z
+2026-11-28,3,no,2026-11-28T19:45:00Z,France,Ligue 1,Le Havre,Strasbourg,Goals: Over 1.5,1.2,83,2026-11-27T01:10:01Z
+2026-11-28,4,no,2026-11-28T13:30:00Z,Russia,Premier League,CSKA Moscow,Zenit,Away Goals: Over 0.5,1.19,82,2026-11-27T01:10:01Z
+2026-11-28,5,no,2026-11-28T15:30:00Z,Portugal,Primeira Liga,Arouca,Rio Ave,Home Goals: Under 2.5,1.27,82,2026-11-27T01:10:01Z

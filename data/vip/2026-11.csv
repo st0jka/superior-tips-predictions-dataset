@@ -64,3 +64,5 @@ day,sport,kickoff_utc,country,league,home,away,pick,price,stake_pct,result,grade
 2026-11-19,basketball,2026-11-19T18:00:00Z,,Euroleague,Zalgiris Kaunas,Panathinaikos,"Zalgiris +7.5, overtime included",1.31,1,72-87,LOST
 2026-11-19,football,2026-11-19T18:00:00Z,Denmark,1. Division,FC Fredericia,Hillerød,Fredericia to win,1.36,1,4-1,WON
 2026-11-19,football,2026-11-20T03:00:00Z,USA,Major League Soccer,Seattle Sounders,Real Salt Lake,Seattle under 2.5 goals,1.341,2,1-1,WON
+2026-11-20,football,2026-11-20T18:30:00Z,Romania,Liga I,Farul Constanta,Universitatea Cluj,Under 3.5 goals,1.43,1,2-3,LOST
+2026-11-20,football,2026-11-20T19:45:00Z,Belgium,Jupiler Pro League,Cercle Brugge,Westerlo,Westerlo over 0.5 goals,1.254,2,1-0,LOST
