@@ -35,3 +35,5 @@ day,ticket_price,leg,kickoff_utc,country,league,home,away,pick,price,probability
 2026-11-27,1.51,2,2026-11-27T16:00:00Z,Serbia,Super Liga,IMT Novi Beograd,Macva,Goals Over/Under: Under 3.5,1.26,81,2026-11-26T01:10:01Z
 2026-11-28,1.63,1,2026-11-28T16:00:00Z,Israel,Ligat Ha'al,Hapoel Haifa,Ironi Tiberias,Goals Over/Under: Over 1.5,1.2,86,2026-11-27T01:10:01Z
 2026-11-28,1.63,2,2026-11-28T16:30:00Z,Ecuador,Liga Pro,Universidad Catolica,Independiente del Valle,Goals Over/Under: Under 3.5,1.36,83,2026-11-27T01:10:01Z
+2026-11-29,1.56,1,2026-11-29T14:00:00Z,Malta,Premier League,Valletta FC,Hibernians,Total - Home: Under 2.5,1.21,89,2026-11-28T01:10:01Z
+2026-11-29,1.56,2,2026-11-29T14:00:00Z,Iraq,Iraqi League,Al Karkh,Al Zawra'a,Goals Over/Under: Under 3.5,1.29,86,2026-11-28T01:10:01Z
